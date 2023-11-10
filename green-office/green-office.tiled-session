@@ -1,0 +1,334 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "D:/wfh-temp/gamedev/blue-office-2/blue-office-lobby/blue-office-2-lobby.json",
+    "expandedProjectPaths": [
+        "green-office-office1",
+        "green-office-office",
+        ".",
+        "green-office-exterior",
+        "green-office-meetingRoom",
+        "green-office-lobby",
+        "green-office-office2",
+        "green-office-lounge",
+        "green-office-manager"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#green-office-manager-sc": {
+            "scaleInDock": 0.125
+        },
+        "#green-office-meetingRoom-sc": {
+            "scaleInDock": 1
+        },
+        "D:/byron/OFFICE_GameDev/maps-oct-31-2023/lobby/lobby.json": {
+            "scale": 0.2707760989010989,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1458.7698161065314,
+                "y": 816.1724793912493
+            }
+        },
+        "D:/byron/OFFICE_GameDev/maps-oct-31-2023/lobby/lobby.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/byron/OFFICE_GameDev/maps-oct-31-2023/lobby/lobby.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/byron/OFFICE_GameDev/maps-oct-31-2023/lobby/lobby.json#lobby-j": {
+            "scaleInDock": 1
+        },
+        "D:/byron/OFFICE_GameDev/maps-oct-31-2023/outdoor/outdoor.json": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1460,
+                "y": 704
+            }
+        },
+        "D:/byron/OFFICE_GameDev/maps-oct-31-2023/outdoor/outdoor.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/byron/OFFICE_GameDev/maps-oct-31-2023/outdoor/outdoor.json#builidng-transformed": {
+            "scaleInDock": 1
+        },
+        "D:/byron/OFFICE_GameDev/maps-oct-31-2023/outdoor/outdoor.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/blue-office-2/blue-office-lobby/blue-office-2-lobby.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 771,
+                "y": 533
+            }
+        },
+        "D:/wfh-temp/gamedev/blue-office-2/blue-office-lobby/blue-office-2-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/blue-office-2/blue-office-lobby/blue-office-2-lobby.json#blue-office-2-lobby": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/blue-office/blue-office-lobby/blue-office-lobby.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1439.3333333333333,
+                "y": 799.3333333333333
+            }
+        },
+        "D:/wfh-temp/gamedev/blue-office/blue-office-lobby/blue-office-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/blue-office/blue-office-lobby/blue-office-lobby.json#blue-office-lobby-map": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/blue-office/blue-office-managerA/blue-office-managerA.json": {
+            "scale": 0.49377297794117647,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1086.531713900135,
+                "y": 608.5792731164781
+            }
+        },
+        "D:/wfh-temp/gamedev/blue-office/blue-office-managerA/blue-office-managerA.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/wfh-temp/gamedev/blue-office/blue-office-managerA/blue-office-managerA.json#blue-office-managerA-scaled": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/lounge/lounge.json": {
+            "scale": 0.39859834558823526,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1090.0697526949905,
+                "y": 609.6362483426528
+            }
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/lounge/lounge.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/lounge/lounge.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/lounge/lounge.json#lounge": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/meeting/meeting.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1087,
+                "y": 609
+            }
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/meeting/meeting.json#all": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/meeting/meeting.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/meeting/meeting.json#meeting": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/office/office.json": {
+            "scale": 0.6023263888888888,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 721.3696892834497,
+                "y": 408.41644088314985
+            }
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/office/office.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/office/office.json#URL": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/office/office.json#lamar3online_Top-down_directly_overhead_view_of_a_minimalist_of_efdd8e96-5db6-4c75-a31a-94cf3bbe3a02": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/office/office.json#meeting-room": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/office/office.json#office": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/offices2/offices2.json": {
+            "scale": 0.39859834558823526,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1087.5609615495475,
+                "y": 608.3818527699315
+            }
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/offices2/offices2.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/offices2/offices2.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/offices2/offices2.json#office-2": {
+            "scaleInDock": 1
+        },
+        "green-office-exterior/green-office-exterior.json": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1453.030303030303,
+                "y": 816.6666666666667
+            }
+        },
+        "green-office-exterior/green-office-exterior.json#Collides": {
+            "scaleInDock": 1
+        },
+        "green-office-exterior/green-office-exterior.json#green-office-exterior": {
+            "scaleInDock": 0.03125
+        },
+        "green-office-lobby/green-office-lobby.json": {
+            "scale": 0.75,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 1410.6666666666665,
+                "y": 782
+            }
+        },
+        "green-office-lobby/green-office-lobby.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "green-office-lobby/green-office-lobby.json#green-office-lobby": {
+            "scaleInDock": 1
+        },
+        "green-office-lounge/green-office-lounge.json": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 845.4545454545455,
+                "y": 803.0303030303032
+            }
+        },
+        "green-office-lounge/green-office-lounge.json#Collides": {
+            "scaleInDock": 1
+        },
+        "green-office-lounge/green-office-lounge.json#green-office-lounge-sc": {
+            "scaleInDock": 1
+        },
+        "green-office-manager/green-office-manager.json": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1138,
+                "y": 704
+            }
+        },
+        "green-office-manager/green-office-manager.json#Collides": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "green-office-manager/green-office-manager.json#green-office-manager-sc": {
+            "scaleInDock": 0.125
+        },
+        "green-office-meetingRoom/green-office-meetingRoom.json": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1160.6060606060605,
+                "y": 577.2727272727273
+            }
+        },
+        "green-office-meetingRoom/green-office-meetingRoom.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "green-office-meetingRoom/green-office-meetingRoom.json#green-office-manager-sc": {
+            "scaleInDock": 0.125
+        },
+        "green-office-meetingRoom/green-office-meetingRoom.json#green-office-meetingRoom-sc": {
+            "scaleInDock": 1
+        },
+        "green-office-office/green-office-office.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 407,
+                "y": 884
+            }
+        },
+        "green-office-office/green-office-office.json#Collides": {
+            "scaleInDock": 1
+        },
+        "green-office-office/green-office-office.json#green-office-office-sc": {
+            "scaleInDock": 0.125
+        },
+        "green-office-office1/green-office-office1.json": {
+            "scale": 0.3872098214285714,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1057.5661497665303,
+                "y": 578.4977229492132
+            }
+        },
+        "green-office-office1/green-office-office1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "green-office-office1/green-office-office1.json#green-office-office-sc": {
+            "scaleInDock": 1
+        },
+        "green-office-office2/green-office-office2.json": {
+            "scale": 0.3872098214285714,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1057.5661497665303,
+                "y": 578.4977229492132
+            }
+        },
+        "green-office-office2/green-office-office2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "green-office-office2/green-office-office2.json#green-office-office-sc": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 38,
+    "map.lastUsedFormat": "json",
+    "map.width": 68,
+    "openFiles": [
+        "D:/wfh-temp/gamedev/blue-office/blue-office-managerA/blue-office-managerA.json",
+        "D:/wfh-temp/gamedev/blue-office/blue-office-lobby/blue-office-lobby.json",
+        "green-office-exterior/green-office-exterior.json",
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/offices2/offices2.json",
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/meeting/meeting.json",
+        "green-office-lobby/green-office-lobby.json",
+        "green-office-meetingRoom/green-office-meetingRoom.json",
+        "D:/wfh-temp/gamedev/blue-office-2/blue-office-lobby/blue-office-2-lobby.json"
+    ],
+    "project": "green-office.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "D:/wfh-temp/gamedev/blue-office/blue-office-managerA/blue-office-managerA.json",
+        "D:/wfh-temp/gamedev/blue-office/blue-office-lobby/blue-office-lobby.json",
+        "green-office-exterior/green-office-exterior.json",
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/offices2/offices2.json",
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/meeting/meeting.json",
+        "green-office-lobby/green-office-lobby.json",
+        "green-office-meetingRoom/green-office-meetingRoom.json",
+        "D:/wfh-temp/gamedev/blue-office-2/blue-office-lobby/blue-office-2-lobby.json",
+        "green-office-manager/green-office-manager.json",
+        "green-office-lounge/green-office-lounge.json",
+        "D:/wfh-temp/gamedev/maps-oct-31-2023/lounge/lounge.json",
+        "green-office-office2/green-office-office2.json"
+    ],
+    "tileset.embedInMap": true
+}

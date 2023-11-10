@@ -1,0 +1,199 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "blue-office-2-lobby/blue-office-2-lobby.json",
+    "expandedProjectPaths": [
+        "blue-office-2-meetingRoom",
+        "blue-office-2-manager",
+        "blue-office-2-exterior",
+        ".",
+        "blue-office-2-lobby",
+        "blue-office-2-office2",
+        "blue-office-2-lounge",
+        "blue-office-2-office1"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#blue-office-2-lounge": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-exterior/blue-office-exterior.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1455,
+                "y": 815
+            }
+        },
+        "blue-office-2-exterior/blue-office-exterior.json#Collides": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-exterior/blue-office-exterior.json#blue-office-exterior": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-lobby/blue-office-2-lobby.json": {
+            "scale": 0.33,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 2100,
+                "y": 1145.4545454545455
+            }
+        },
+        "blue-office-2-lobby/blue-office-2-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-lobby/blue-office-2-lobby.json#blue-office-2-lobby": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-lounge/blue-office-2-lounge.json": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1056,
+                "y": 578
+            }
+        },
+        "blue-office-2-lounge/blue-office-2-lounge.json#Collides": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-lounge/blue-office-2-lounge.json#blue-office-2-lounge": {
+            "scaleInDock": 0.125
+        },
+        "blue-office-2-manager/blue-06-ceo.json": {
+            "scale": 0.353921568627451,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1442.4099722991689,
+                "y": 1059.556786703601
+            }
+        },
+        "blue-office-2-manager/blue-06-ceo.json#00-Collides": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-manager/blue-06-ceo.json#blue-06-ceo": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-manager/blue-office-2-manager.json": {
+            "scale": 0.475,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1080,
+                "y": 604.2105263157894
+            }
+        },
+        "blue-office-2-manager/blue-office-2-manager.json#Collides": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-manager/blue-office-2-manager.json#blue-office-2-manager": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-manager/blue-office-managerA.json": {
+            "scale": 0.4789292279411765,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1088.8873962481407,
+                "y": 607.6054310799788
+            }
+        },
+        "blue-office-2-manager/blue-office-managerA.json#Collides": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-manager/blue-office-managerA.json#blue-office-managerA-scaled": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-meetingRoom/blue-office-meetingRoom.json": {
+            "scale": 0.4652455357142857,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1051.0579091301638,
+                "y": 571.7411121239745
+            }
+        },
+        "blue-office-2-meetingRoom/blue-office-meetingRoom.json#Collides": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-meetingRoom/blue-office-meetingRoom.json#all": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-meetingRoom/blue-office-meetingRoom.json#blue-office-meetingRoom-scaled": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-office1/blue-03-office.json": {
+            "scale": 0.2411284722222222,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2200.0719994240044,
+                "y": 812.8446972424221
+            }
+        },
+        "blue-office-2-office1/blue-03-office.json#00-Collides": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-office1/blue-03-office.json#blue-03-office": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-office1/blue-office-2-office1.json": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1055,
+                "y": 577
+            }
+        },
+        "blue-office-2-office1/blue-office-2-office1.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "blue-office-2-office1/blue-office-2-office1.json#blue-office-2-office1": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-office2/blue-office-2-office2.json": {
+            "scale": 0.4652455357142857,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1048.9085064530059,
+                "y": 569.5917094468168
+            }
+        },
+        "blue-office-2-office2/blue-office-2-office2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "blue-office-2-office2/blue-office-2-office2.json#blue-office-2-office2": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 38,
+    "map.lastUsedFormat": "json",
+    "map.width": 68,
+    "openFiles": [
+        "blue-office-2-lobby/blue-office-2-lobby.json",
+        "blue-office-2-exterior/blue-office-exterior.json",
+        "blue-office-2-office1/blue-office-2-office1.json",
+        "blue-office-2-manager/blue-office-2-manager.json",
+        "blue-office-2-meetingRoom/blue-office-meetingRoom.json",
+        "blue-office-2-office2/blue-office-2-office2.json",
+        "blue-office-2-lounge/blue-office-2-lounge.json"
+    ],
+    "project": "blue-office-2.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "blue-office-2-meetingRoom/blue-office-meetingRoom.json",
+        "blue-office-2-lounge/blue-office-2-lounge.json",
+        "blue-office-2-office2/blue-office-2-office2.json",
+        "blue-office-2-manager/blue-office-2-manager.json",
+        "blue-office-2-office1/blue-office-2-office1.json",
+        "blue-office-2-exterior/blue-office-exterior.json",
+        "blue-office-2-lobby/blue-office-2-lobby.json",
+        "blue-office-2-manager/blue-06-ceo.json",
+        "blue-office-2-manager/blue-office-managerA.json",
+        "blue-office-2-office1/blue-03-office.json"
+    ],
+    "tileset.embedInMap": true
+}
