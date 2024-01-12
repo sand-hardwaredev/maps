@@ -184,6 +184,12 @@
          "id":4,
          "name":"exit-to-mall-lobby",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/mall-lobby\/mall-lobby.json#start-from-shop-print"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":91,
