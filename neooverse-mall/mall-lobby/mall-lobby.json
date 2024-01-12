@@ -1538,19 +1538,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":72,
-         "firstgid":5218,
-         "image":"mall-lobby-sc.jpg",
-         "imageheight":1306,
-         "imagewidth":2330,
-         "margin":0,
-         "name":"mall-lobby-sc",
-         "spacing":0,
-         "tilecount":2880,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
