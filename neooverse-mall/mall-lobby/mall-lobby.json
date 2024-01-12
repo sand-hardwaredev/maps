@@ -1520,6 +1520,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":360,
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/infodesk1.videoserver.neooverse.com\/"
+                        }]
+                }, 
+                {
                  "id":565,
                  "properties":[
                         {
