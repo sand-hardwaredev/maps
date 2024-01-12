@@ -29,11 +29,11 @@
             "scaleInDock": 1
         },
         "mall-lobby/mall-lobby.json": {
-            "scale": 0.75,
-            "selectedLayer": 4,
+            "scale": 1,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1462.6666666666665,
-                "y": 783.3333333333333
+                "x": 2563,
+                "y": 1082
             }
         },
         "mall-lobby/mall-lobby.json#Collides": {
@@ -47,25 +47,26 @@
             "scaleInDock": 1
         },
         "neooverse-exhibit/neooverse-exhibit.json": {
-            "scale": 0.2772170608108108,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 973.9660294005637,
-                "y": 602.4160255922005
+                "x": 1448,
+                "y": 802
             }
         },
         "neooverse-exhibit/neooverse-exhibit.json#00-Collides": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "neooverse-exhibit/neooverse-exhibit.json#neooverse-exhibit": {
             "scaleInDock": 1
         },
         "shop-appliance/shop-appliance.json": {
-            "scale": 0.125,
+            "scale": 0.33,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1064,
-                "y": 784
+                "x": 1621.212121212121,
+                "y": 951.5151515151517
             }
         },
         "shop-appliance/shop-appliance.json#Collides": {
@@ -79,8 +80,8 @@
             "scale": 0.33,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1418.181818181818,
-                "y": 775.7575757575758
+                "x": 1400,
+                "y": 772.7272727272727
             }
         },
         "shop-carpet/shop-carpet.json#Collides": {
@@ -91,11 +92,11 @@
             "scaleInDock": 1
         },
         "shop-computer/shop-computer.json": {
-            "scale": 0.33,
+            "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1415.151515151515,
-                "y": 390.9090909090909
+                "x": 1742,
+                "y": 542
             }
         },
         "shop-computer/shop-computer.json#Collides": {
@@ -106,11 +107,11 @@
             "scaleInDock": 1
         },
         "shop-furniture/shop-furniture.json": {
-            "scale": 0.25,
+            "scale": 0.0625,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1252,
-                "y": 40
+                "x": 1632,
+                "y": -2912
             }
         },
         "shop-furniture/shop-furniture.json#Collides": {
@@ -121,11 +122,11 @@
             "scaleInDock": 0.125
         },
         "shop-jewelry/shop-jewelry.json": {
-            "scale": 0.25,
-            "selectedLayer": 3,
+            "scale": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 2176,
-                "y": 1152
+                "x": 1267,
+                "y": 1034
             }
         },
         "shop-jewelry/shop-jewelry.json#Collides": {
@@ -137,10 +138,10 @@
         },
         "shop-phone/shop-phone.json": {
             "scale": 0.5,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1438,
-                "y": 980
+                "x": 1434,
+                "y": 976
             }
         },
         "shop-phone/shop-phone.json#Collides": {
@@ -154,8 +155,8 @@
             "scale": 0.33,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1139.3939393939395,
-                "y": 1190.909090909091
+                "x": 1130.3030303030303,
+                "y": 1181.8181818181818
             }
         },
         "shop-print/shop-print.json#Collides": {
@@ -169,22 +170,23 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 926.6666666666666,
-                "y": 1165.3333333333333
+                "x": 923.9999999999999,
+                "y": 818.6666666666665
             }
         },
         "shop-real-estate/shop-real-estate.json#Collides": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "shop-real-estate/shop-real-estate.json#shop-real-estate": {
             "scaleInDock": 1
         },
         "showroom/showroom.json": {
-            "scale": 0.24632601351351346,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1120.4663123607068,
-                "y": 608.9490828047317
+                "x": 1122,
+                "y": 816
             }
         },
         "showroom/showroom.json#00-Collides": {
@@ -205,17 +207,17 @@
     "project": "neooverse-mall.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "shop-phone/shop-phone.json",
-        "mall-lobby/mall-lobby.json",
-        "shop-jewelry/shop-jewelry.json",
-        "shop-computer/shop-computer.json",
-        "shop-furniture/shop-furniture.json",
-        "shop-carpet/shop-carpet.json",
         "shop-appliance/shop-appliance.json",
         "shop-real-estate/shop-real-estate.json",
-        "neooverse-exhibit/neooverse-exhibit.json",
         "shop-print/shop-print.json",
-        "showroom/showroom.json"
+        "shop-computer/shop-computer.json",
+        "neooverse-exhibit/neooverse-exhibit.json",
+        "showroom/showroom.json",
+        "shop-jewelry/shop-jewelry.json",
+        "shop-furniture/shop-furniture.json",
+        "shop-carpet/shop-carpet.json",
+        "shop-phone/shop-phone.json",
+        "mall-lobby/mall-lobby.json"
     ],
     "tileset.embedInMap": true
 }
