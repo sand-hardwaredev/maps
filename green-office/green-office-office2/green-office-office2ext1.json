@@ -143,7 +143,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":38,
          "id":9,
-         "name":"start-from-lobby",
+         "name":"start-from-office2",
          "opacity":1,
          "properties":[
                 {
@@ -198,7 +198,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":38,
          "id":7,
-         "name":"start-from-ext1",
+         "name":"start-from-ext2",
          "opacity":1,
          "properties":[
                 {
@@ -253,13 +253,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":38,
          "id":8,
-         "name":"exit-to-ext1",
+         "name":"exit-to-ext2",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"green-office-office2ext1.json"
+                 "value":"green-office-office2ext2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -314,7 +314,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/green-office-lobby\/green-office-lobby.json#start-from-office2"
+                 "value":"green-office-office2.json#start-from-ext1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -392,11 +392,11 @@
         {
          "columns":68,
          "firstgid":1,
-         "image":"green-office-19-24.jpg",
+         "image":"green-office-25-30.jpg",
          "imageheight":1224,
          "imagewidth":2184,
          "margin":0,
-         "name":"green-office-19-24",
+         "name":"green-office-25-30",
          "spacing":0,
          "tilecount":2584,
          "tileheight":32,
