@@ -307,6 +307,8 @@
          "height":38,
          "id":4,
          "name":"exit",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "properties":[
                 {
