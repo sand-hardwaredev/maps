@@ -257,7 +257,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/green-office-office1ext1.json"
+                 "value":"green-office-office1ext1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
