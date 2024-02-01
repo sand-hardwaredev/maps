@@ -44,6 +44,8 @@
          "height":38,
          "id":2,
          "name":"collides",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -257,7 +259,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/green-office-office1ext2.json"
+                 "value":"green-office-office1ext2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -307,8 +309,6 @@
          "height":38,
          "id":4,
          "name":"exit",
-         "offsetx":-64,
-         "offsety":-64,
          "opacity":1,
          "properties":[
                 {

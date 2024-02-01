@@ -149,7 +149,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"green-office-office1-ext1.json#start-from-ext2"
+                 "value":"green-office-office1ext1.json#start-from-ext2"
                 }],
          "type":"tilelayer",
          "visible":true,
