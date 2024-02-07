@@ -62,7 +62,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/exterior\/exterior.json#start-from-ihc-bldg"
+                 "value":"main-lobby.json#start-from-ihc-bldg"
                 }],
          "type":"tilelayer",
          "visible":true,
