@@ -262,7 +262,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"exterior.json#start-from-cafe-viola"
+                 "value":"exterior.json#start-from-cafe-top"
                 }],
          "type":"tilelayer",
          "visible":true,
