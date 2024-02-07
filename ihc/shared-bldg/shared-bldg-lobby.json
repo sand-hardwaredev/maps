@@ -124,7 +124,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/cybergate\/cg-lobby.json"
+                 "value":"..\/shared-bldg\/cybergate\/cg-lobby.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -260,7 +260,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/aldar\/aldar-lobby.json"
+                 "value":"..\/shared-bldg\/aldar\/aldar-lobby.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -532,7 +532,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/viola\/viola-lobby.json"
+                 "value":"..\/shared-bldg\/viola\/viola-lobby.json"
                 }],
          "type":"tilelayer",
          "visible":true,
