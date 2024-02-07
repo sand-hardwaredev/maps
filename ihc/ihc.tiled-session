@@ -99,8 +99,8 @@
             "scale": 0.0625,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": -3016,
-                "y": 1456
+                "x": -1480,
+                "y": 1440
             }
         },
         "exterior/cafe.json#Collides": {
@@ -126,10 +126,10 @@
         },
         "exterior/exterior.json": {
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1012.5,
-                "y": 972
+                "x": 1011.5,
+                "y": 971
             }
         },
         "exterior/exterior.json#Collides": {
@@ -275,8 +275,8 @@
             "scale": 0.33,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1454.5454545454545,
-                "y": 816.6666666666667
+                "x": 1450,
+                "y": 815.1515151515151
             }
         },
         "ihc-bldg/main-arcade.json#Collides": {
@@ -290,8 +290,8 @@
             "scale": 0.25,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1424,
-                "y": 786
+                "x": 1418,
+                "y": 784
             }
         },
         "ihc-bldg/main-cafe.json#Collides": {
@@ -331,11 +331,11 @@
             "scaleInDock": 1
         },
         "ihc-bldg/main-lounge.json": {
-            "scale": 0.75,
-            "selectedLayer": 4,
+            "scale": 0.33,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1571.3333333333333,
-                "y": 788
+                "x": 1184.8484848484848,
+                "y": 887.8787878787879
             }
         },
         "ihc-bldg/main-lounge.json#Collides": {
@@ -349,8 +349,8 @@
             "scale": 0.33,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1106.060606060606,
-                "y": 909.090909090909
+                "x": 995.4545454545455,
+                "y": 906.060606060606
             }
         },
         "ihc-bldg/main-reception.json#Collides": {
@@ -364,8 +364,8 @@
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1793,
-                "y": 754
+                "x": 1791,
+                "y": 752
             }
         },
         "ihc-bldg/main-theater.json#Collides": {
@@ -395,11 +395,11 @@
             "scaleInDock": 1
         },
         "shared-bldg/aldar/aldar-lobby.json": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 0.33,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1574,
-                "y": 1296
+                "x": 1227.2727272727273,
+                "y": 1375.7575757575758
             }
         },
         "shared-bldg/aldar/aldar-lobby.json#Collides": {
@@ -409,11 +409,11 @@
             "scaleInDock": 1
         },
         "shared-bldg/aldar/aldar-lounge-a.json": {
-            "scale": 0.33,
-            "selectedLayer": 0,
+            "scale": 0.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 2187.878787878788,
-                "y": 575.7575757575758
+                "x": 1636,
+                "y": -150
             }
         },
         "shared-bldg/aldar/aldar-lounge-a.json#Collides": {
@@ -505,10 +505,10 @@
         },
         "shared-bldg/cybergate/cg-lobby.json": {
             "scale": 0.16535618279569894,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1427.2221093273724,
-                "y": 789.2054460475513
+                "x": 2467.4009347693554,
+                "y": 780.1341190814876
             }
         },
         "shared-bldg/cybergate/cg-lobby.json#Collides": {
@@ -535,8 +535,8 @@
             "scale": 0.2480342741935484,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1405.0477545214385,
-                "y": 774.0865677707783
+                "x": 1401.0160536476324,
+                "y": 770.054866896972
             }
         },
         "shared-bldg/main-cafe.json#Collides": {
@@ -549,8 +549,8 @@
             "scale": 0.2480342741935484,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1405.0477545214385,
-                "y": 774.0865677707783
+                "x": 1401.0160536476324,
+                "y": 770.054866896972
             }
         },
         "shared-bldg/main-garden.json#Collides": {
@@ -563,12 +563,13 @@
             "scale": 0.33,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1301.5151515151515,
-                "y": 1078.7878787878788
+                "x": 1824.2424242424242,
+                "y": 1072.7272727272727
             }
         },
         "shared-bldg/main-theater.json#Collides": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "shared-bldg/main-theater.json#main-theater": {
             "scaleInDock": 1
@@ -577,8 +578,8 @@
             "scale": 1,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1250,
-                "y": 781
+                "x": 1558,
+                "y": 779
             }
         },
         "shared-bldg/shared-bldg-lobby.json#Collides": {
@@ -589,10 +590,10 @@
         },
         "shared-bldg/viola/viola-lobby.json": {
             "scale": 0.33,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1418.181818181818,
-                "y": 784.8484848484849
+                "x": 1833.3333333333335,
+                "y": 778.7878787878788
             }
         },
         "shared-bldg/viola/viola-lobby.json#Collides": {
@@ -605,8 +606,8 @@
             "scale": 0.18514784946236557,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 502.3012704174229,
-                "y": 788.5589836660615
+                "x": 1234.1488203266788,
+                "y": 783.1578947368423
             }
         },
         "shared-bldg/viola/viola-lounge-a.json#Collides": {
@@ -631,8 +632,9 @@
         "shared-bldg/main-arcade.json"
     ],
     "project": "ihc.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
+        "shared-bldg/aldar/aldar-lounge-a.json",
         "exterior/exterior.json",
         "exterior/cafe.json",
         "shared-bldg/shared-bldg-lobby.json",
@@ -643,8 +645,7 @@
         "ihc-bldg/main-cafe.json",
         "shared-bldg/main-arcade.json",
         "shared-bldg/main-cafe.json",
-        "shared-bldg/main-garden.json",
-        "shared-bldg/aldar/aldar-lounge-a.json"
+        "shared-bldg/main-garden.json"
     ],
     "tileset.embedInMap": true
 }
