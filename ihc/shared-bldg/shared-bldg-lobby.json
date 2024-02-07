@@ -260,7 +260,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ihc-bldg.json"
+                 "value":"aldar\/aldar-lobby.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1076,7 +1076,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/exterior\/exterior.json#start-from-ihc-bldg"
+                 "value":"..\/exterior\/exterior.json#start-from-shared-bldg"
                 }],
          "type":"tilelayer",
          "visible":true,
