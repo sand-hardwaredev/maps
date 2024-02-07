@@ -1,0 +1,614 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "shared-bldg/shared-bldg-lobby.json",
+    "expandedProjectPaths": [
+        "shared-bldg/aldar",
+        ".",
+        "shared-bldg/cybergate",
+        "outdoor",
+        "New folder",
+        "shared-bldg",
+        "ihc-bldg",
+        "exterior"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#Manager1": {
+            "scaleInDock": 1
+        },
+        "#main-manager": {
+            "scaleInDock": 1
+        },
+        "#main-reception": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/green-office/green-office-manager/green-office-manager.json": {
+            "scale": 0.29305803571428574,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1056.104806154315,
+                "y": 563.0284103892147
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/green-office/green-office-manager/green-office-manager.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/green-office/green-office-manager/green-office-manager.json#green-office-manager-sc": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/manager/manager.json": {
+            "scale": 0.30167738970588237,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1088.911569807297,
+                "y": 609.9230710640566
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/manager/manager.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/manager/manager.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/manager/manager.json#manager": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/offices1/offices1.json": {
+            "scale": 0.30167738970588237,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1088.911569807297,
+                "y": 609.9230710640566
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/offices1/offices1.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/offices1/offices1.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/offices1/offices1.json#office-1": {
+            "scaleInDock": 1
+        },
+        "New folder/demo-exterior.json": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1833.5,
+                "y": 1094
+            }
+        },
+        "New folder/demo-exterior.json#Collides": {
+            "scaleInDock": 1
+        },
+        "New folder/demo-exterior.json#exterior": {
+            "scaleInDock": 1
+        },
+        "exterior/cafe.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1496,
+                "y": 1394
+            }
+        },
+        "exterior/cafe.json#Collides": {
+            "scaleInDock": 1
+        },
+        "exterior/cafe.json#cafe": {
+            "scaleInDock": 1
+        },
+        "exterior/demo-exterior.json": {
+            "scale": 0.1497869318181818,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2466.837363679469,
+                "y": 881.2517780938833
+            }
+        },
+        "exterior/demo-exterior.json#Collides": {
+            "scaleInDock": 1
+        },
+        "exterior/demo-exterior.json#exterior": {
+            "scaleInDock": 1
+        },
+        "exterior/exterior.json": {
+            "scale": 2,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 4032.5,
+                "y": 940.5
+            }
+        },
+        "exterior/exterior.json#Collides": {
+            "scaleInDock": 1
+        },
+        "exterior/exterior.json#exterior": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.25
+        },
+        "exterior/exterior.json#exterior - re-compressed": {
+            "scaleInDock": 1
+        },
+        "exterior/exterior.json#exterior - re-compressed - 2": {
+            "scaleInDock": 1
+        },
+        "exterior/exterior.json#exterior-left": {
+            "scaleInDock": 0.25
+        },
+        "exterior/exterior.json#exterior-right": {
+            "scaleInDock": 0.125
+        },
+        "exterior/ihc-bldg.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1998.4848484848485,
+                "y": 654.5454545454545
+            }
+        },
+        "exterior/ihc-bldg.json#Collides": {
+            "scaleInDock": 1
+        },
+        "exterior/ihc-bldg.json#ihc-bldg": {
+            "scaleInDock": 1
+        },
+        "exterior/ihc-exterior-3.json": {
+            "scale": 0.1810166396103896,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2466.6240681576146,
+                "y": 883.8966425648787
+            }
+        },
+        "exterior/ihc-exterior-3.json#125-iloveimg": {
+            "scaleInDock": 1
+        },
+        "exterior/ihc-exterior-3.json#125-upScaledByRonnie": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/ihc-bldg.json": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1420,
+                "y": 782
+            }
+        },
+        "ihc-bldg/ihc-bldg.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/ihc-bldg.json#ihc-bldg": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/ihc-lounge.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1759.090909090909,
+                "y": 796.9696969696968
+            }
+        },
+        "ihc-bldg/ihc-lounge.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ihc-bldg/ihc-lounge.json#ihc-lounge": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/ihc-manager.json": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1759.090909090909,
+                "y": 796.9696969696968
+            }
+        },
+        "ihc-bldg/ihc-manager.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ihc-bldg/ihc-manager.json#ihc-manager": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/ihc-meeting.json": {
+            "scale": 0.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1423,
+                "y": 785
+            }
+        },
+        "ihc-bldg/ihc-meeting.json#Collides": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "ihc-bldg/ihc-meeting.json#ihc-meeting": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/ihc-meeting.json#ihc-meeting-overlay": {
+            "scaleInDock": 0.125
+        },
+        "ihc-bldg/ihc-offices.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1645,
+                "y": 792
+            }
+        },
+        "ihc-bldg/ihc-offices.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/ihc-offices.json#ihc-offices": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/main-arcade.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1645,
+                "y": 792
+            }
+        },
+        "ihc-bldg/main-arcade.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ihc-bldg/main-arcade.json#main-arcade": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/main-cafe.json": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1866,
+                "y": 800
+            }
+        },
+        "ihc-bldg/main-cafe.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ihc-bldg/main-cafe.json#main-cafe": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/main-garden.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1759.090909090909,
+                "y": 796.9696969696968
+            }
+        },
+        "ihc-bldg/main-garden.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ihc-bldg/main-garden.json#main-garden": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/main-lobby.json": {
+            "scale": 0.33,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 1448.4848484848485,
+                "y": 815.1515151515151
+            }
+        },
+        "ihc-bldg/main-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/main-lobby.json#main-lobby": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/main-lounge.json": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1571.3333333333333,
+                "y": 788
+            }
+        },
+        "ihc-bldg/main-lounge.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ihc-bldg/main-lounge.json#main-lounge": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/main-reception.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1883,
+                "y": 1104
+            }
+        },
+        "ihc-bldg/main-reception.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ihc-bldg/main-reception.json#main-reception": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/main-theater.json": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1759.090909090909,
+                "y": 796.9696969696968
+            }
+        },
+        "ihc-bldg/main-theater.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-bldg/main-theater.json#main-theater": {
+            "scaleInDock": 1
+        },
+        "outdoor/outdoor.json": {
+            "scale": 0.125,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 1692,
+                "y": 416
+            }
+        },
+        "outdoor/outdoor.json#all": {
+            "scaleInDock": 1
+        },
+        "outdoor/outdoor.json#collides": {
+            "scaleInDock": 1
+        },
+        "outdoor/outdoor.json#ihc-exterior": {
+            "scaleInDock": 0.03125
+        },
+        "outdoor/outdoor.json#outdoor": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/aldar/aldar-lobby.json": {
+            "scale": 0.75,
+            "selectedLayer": 17,
+            "viewCenter": {
+                "x": 1423.3333333333333,
+                "y": 783.3333333333333
+            }
+        },
+        "shared-bldg/aldar/aldar-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/aldar/aldar-lobby.json#aldar-lobby": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/aldar/aldar-lounge-a.json": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1427,
+                "y": 966
+            }
+        },
+        "shared-bldg/aldar/aldar-lounge-a.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/aldar/aldar-lounge-a.json#aldar-lounge": {
+            "scaleInDock": 0.5
+        },
+        "shared-bldg/aldar/aldar-lounge-b.json": {
+            "scale": 0.29974798387096774,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 453.7144778880108,
+                "y": 787.3280645703715
+            }
+        },
+        "shared-bldg/aldar/aldar-lounge-b.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/aldar/aldar-lounge-b.json#aldar-lounge-b": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/aldar/aldar-manager.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1423.3333333333333,
+                "y": 783.3333333333333
+            }
+        },
+        "shared-bldg/aldar/aldar-manager.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shared-bldg/aldar/aldar-manager.json#aldar-manager": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/aldar/aldar-meeting.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1423,
+                "y": 785
+            }
+        },
+        "shared-bldg/aldar/aldar-meeting.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shared-bldg/aldar/aldar-meeting.json#aldar-meeting": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/aldar/aldar-office-a.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1409,
+                "y": 960
+            }
+        },
+        "shared-bldg/aldar/aldar-office-a.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shared-bldg/aldar/aldar-office-a.json#aldar-office-a": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/aldar/aldar-office-b.json": {
+            "scale": 0.2480342741935484,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1425.2062588904691,
+                "y": 786.1816703921967
+            }
+        },
+        "shared-bldg/aldar/aldar-office-b.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/aldar/aldar-office-b.json#aldar-office-b": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/cybergate/cg-lobby.json": {
+            "scale": 0.16535618279569894,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1424.1983336720177,
+                "y": 789.2054460475513
+            }
+        },
+        "shared-bldg/cybergate/cg-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/cybergate/cg-lobby.json#cg-lobby": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/main-arcade.json": {
+            "scale": 0.2480342741935484,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1421.174558016663,
+                "y": 784.1658199552936
+            }
+        },
+        "shared-bldg/main-arcade.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/main-arcade.json#main-arcade": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/main-cafe.json": {
+            "scale": 0.2480342741935484,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1421.174558016663,
+                "y": 784.1658199552936
+            }
+        },
+        "shared-bldg/main-cafe.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/main-cafe.json#main-cafe": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/main-garden.json": {
+            "scale": 0.2480342741935484,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1421.174558016663,
+                "y": 784.1658199552936
+            }
+        },
+        "shared-bldg/main-garden.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/main-garden.json#main-garden": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/main-theater.json": {
+            "scale": 0.2480342741935484,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1421.174558016663,
+                "y": 784.1658199552936
+            }
+        },
+        "shared-bldg/main-theater.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/main-theater.json#main-theater": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/shared-bldg-lobby.json": {
+            "scale": 1,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 1362,
+                "y": 860
+            }
+        },
+        "shared-bldg/shared-bldg-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/shared-bldg-lobby.json#shared-bldg-lobby": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/viola/viola-lobby.json": {
+            "scale": 0.18514784946236557,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1425.8874773139746,
+                "y": 788.5589836660615
+            }
+        },
+        "shared-bldg/viola/viola-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "shared-bldg/viola/viola-lobby.json#viola-lobby": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "ihc-bldg/ihc-bldg.json",
+        "exterior/exterior.json",
+        "ihc-bldg/main-lobby.json",
+        "shared-bldg/shared-bldg-lobby.json",
+        "shared-bldg/main-arcade.json",
+        "shared-bldg/main-cafe.json",
+        "shared-bldg/main-garden.json",
+        "shared-bldg/main-theater.json",
+        "shared-bldg/aldar/aldar-lobby.json",
+        "shared-bldg/aldar/aldar-meeting.json",
+        "ihc-bldg/ihc-meeting.json",
+        "shared-bldg/aldar/aldar-manager.json",
+        "shared-bldg/cybergate/cg-lobby.json"
+    ],
+    "project": "ihc.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "ihc-bldg/ihc-bldg.json",
+        "ihc-bldg/main-lobby.json",
+        "shared-bldg/shared-bldg-lobby.json",
+        "shared-bldg/main-arcade.json",
+        "shared-bldg/main-cafe.json",
+        "shared-bldg/main-garden.json",
+        "shared-bldg/main-theater.json",
+        "shared-bldg/aldar/aldar-lobby.json",
+        "shared-bldg/aldar/aldar-meeting.json",
+        "ihc-bldg/ihc-meeting.json",
+        "shared-bldg/aldar/aldar-manager.json",
+        "shared-bldg/cybergate/cg-lobby.json"
+    ],
+    "tileset.embedInMap": true
+}
