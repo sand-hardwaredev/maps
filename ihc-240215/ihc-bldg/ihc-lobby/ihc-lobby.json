@@ -124,7 +124,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/exterior\/exterior.json#start-from-ihc-bldg"
+                 "value":"..\/..\/exterior\/exterior.json#start-from-ihc-bldg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -452,6 +452,12 @@
          "id":12,
          "name":"start-from-directory",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":91,
