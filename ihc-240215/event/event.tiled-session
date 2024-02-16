@@ -1,0 +1,183 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "exhibit/exhibit-sc.json",
+    "expandedProjectPaths": [
+        "chat-room-a",
+        ".",
+        "hall-1-1",
+        "exhibit",
+        "chat-room-b",
+        "gate-1"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/wfh-temp/gamedev/blue-office/blue-office-lobby/blue-office-lobby.json": {
+            "scale": 0.25492527173913043,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 1435.7148567621584,
+                "y": 800.2345103264491
+            }
+        },
+        "D:/wfh-temp/gamedev/blue-office/blue-office-lobby/blue-office-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/blue-office/blue-office-lobby/blue-office-lobby.json#blue-office-lobby-map": {
+            "scaleInDock": 1
+        },
+        "chat-room-a/chat-room-a-sc.json": {
+            "scale": 0.25,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2832,
+                "y": 544
+            }
+        },
+        "chat-room-a/chat-room-a-sc.json#00-Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "chat-room-a/chat-room-a-sc.json#chat-room-a-sc": {
+            "scaleInDock": 0.015625
+        },
+        "chat-room-a/chat-room-a.json": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2352,
+                "y": 790
+            }
+        },
+        "chat-room-a/chat-room-a.json#00-Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "chat-room-a/chat-room-a.json#chat-room-a": {
+            "scaleInDock": 1
+        },
+        "chat-room-b/chat-room-b-sc.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2048,
+                "y": 616
+            }
+        },
+        "chat-room-b/chat-room-b-sc.json#00-Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "chat-room-b/chat-room-b-sc.json#chat-room-b-sc": {
+            "scaleInDock": 1
+        },
+        "chat-room-b/chat-room-b.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3280,
+                "y": 800
+            }
+        },
+        "chat-room-b/chat-room-b.json#00-Collides": {
+            "scaleInDock": 1
+        },
+        "chat-room-b/chat-room-b.json#chat-room-b": {
+            "scaleInDock": 1
+        },
+        "exhibit/exhibit-sc.json": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1018.1818181818182,
+                "y": 1321.2121212121212
+            }
+        },
+        "exhibit/exhibit-sc.json#00-Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "exhibit/exhibit-sc.json#exhibit-sc": {
+            "scaleInDock": 1
+        },
+        "exhibit/exhibit.json": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 3280,
+                "y": 800
+            }
+        },
+        "exhibit/exhibit.json#00-Collides": {
+            "scaleInDock": 1
+        },
+        "exhibit/exhibit.json#exhibit": {
+            "scaleInDock": 1
+        },
+        "gate-1/gate-1.json": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2460.606060606061,
+                "y": 1069.6969696969697
+            }
+        },
+        "gate-1/gate-1.json#00-Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gate-1/gate-1.json#gate-1-sc": {
+            "scaleInDock": 0.03125
+        },
+        "gate-1/gate-1.json#gate-1-sc2": {
+            "scaleInDock": 1
+        },
+        "hall-1-1/hall-1-1.json": {
+            "scale": 0.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 2352,
+                "y": 792
+            }
+        },
+        "hall-1-1/hall-1-1.json#00-Collides": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "hall-1-1/hall-1-1.json#hall 1-1-sc": {
+            "scaleInDock": 0.015625
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "chat-room-a/chat-room-a.json",
+        "chat-room-b/chat-room-b.json",
+        "exhibit/exhibit.json",
+        "chat-room-a/chat-room-a-sc.json",
+        "hall-1-1/hall-1-1.json",
+        "gate-1/gate-1.json",
+        "chat-room-b/chat-room-b-sc.json",
+        "exhibit/exhibit-sc.json"
+    ],
+    "project": "event.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "chat-room-a/chat-room-a.json",
+        "chat-room-b/chat-room-b.json",
+        "exhibit/exhibit.json",
+        "chat-room-a/chat-room-a-sc.json",
+        "hall-1-1/hall-1-1.json",
+        "gate-1/gate-1.json",
+        "chat-room-b/chat-room-b-sc.json",
+        "exhibit/exhibit-sc.json",
+        "D:/wfh-temp/gamedev/blue-office/blue-office-lobby/blue-office-lobby.json"
+    ],
+    "tileset.embedInMap": true
+}
