@@ -1,0 +1,434 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "D:/wfh-temp/gamedev/GS-Maps/green-office/green-office-office1/green-office-office1.json",
+    "expandedProjectPaths": [
+        "shop-jewelry",
+        "mall-lobby",
+        "showroom",
+        "shop-appliance",
+        "shop-phone",
+        "shop-furniture",
+        "neooverse-exhibit",
+        "shop-computer",
+        ".",
+        "shop-print",
+        "shop-carpet",
+        "shop-real-estate"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#shop-appliance": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1/blue-office-2-office1.json": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1087.3333333333333,
+                "y": 580
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1/blue-office-2-office1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1/blue-office-2-office1.json#blue-office-2-office1": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1ext1/blue-office-2-office1ext1.json": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1034.8484848484848,
+                "y": 572.7272727272727
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1ext1/blue-office-2-office1ext1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1ext1/blue-office-2-office1ext1.json#blue-office-2-office1": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1ext1/blue-office-2-office1ext1.json#blue-office-2-office1ext1": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2/blue-office-2-office2.json": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1087.3333333333333,
+                "y": 581.3333333333334
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2/blue-office-2-office2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2/blue-office-2-office2.json#blue-office-2-office2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2ext1/blue-office-2-office2ext1.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1087.3333333333333,
+                "y": 581.3333333333334
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2ext1/blue-office-2-office2ext1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2ext1/blue-office-2-office2ext1.json#blue-office-2-office2": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2ext1/blue-office-2-office2ext1.json#blue-office-2-office2ext1": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/event/neooverse-exhibit/neooverse-exhibit.json": {
+            "scale": 0.24632601351351346,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1116.4066518086752,
+                "y": 608.9490828047317
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/event/neooverse-exhibit/neooverse-exhibit.json#00-Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/event/neooverse-exhibit/neooverse-exhibit.json#neooverse-exhibit": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/green-office/green-office-office1/green-office-office1.json": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1194,
+                "y": 614.6666666666665
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/green-office/green-office-office1/green-office-office1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/green-office/green-office-office1/green-office-office1.json#green-office-1-6": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/green-office/green-office-office1/green-office-office1.json#green-office-office-sc": {
+            "scaleInDock": 0.125
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/lobby/lobby.json": {
+            "scale": 0.20030906593406592,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 1455.2511572089834,
+                "y": 816.2386422081261
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/lobby/lobby.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/lobby/lobby.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/lobby/lobby.json#lobby-j": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/manager/manager.json": {
+            "scale": 0.2680606617647059,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1087.4404251671524,
+                "y": 609.9365678038745
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/manager/manager.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/manager/manager.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/manager/manager.json#manager": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/meeting/meeting.json": {
+            "scale": 0.2680606617647059,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1087.4404251671524,
+                "y": 609.9365678038745
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/meeting/meeting.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/meeting/meeting.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/meeting/meeting.json#meeting": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/offices1/offices1.json": {
+            "scale": 0.2680606617647059,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1087.4404251671524,
+                "y": 609.9365678038745
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/offices1/offices1.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/offices1/offices1.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/offices1/offices1.json#office-1": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/outdoor/outdoor.json": {
+            "scale": 0.20030906593406592,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1455.2511572089834,
+                "y": 816.2386422081261
+            }
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/outdoor/outdoor.json#all": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/outdoor/outdoor.json#builidng-transformed": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/outdoor/outdoor.json#collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/GS-Maps/outdoor/outdoor.json#outdoor": {
+            "scaleInDock": 1
+        },
+        "mall-lobby/mall-lobby.json": {
+            "scale": 1,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 1423.5,
+                "y": 783.5
+            }
+        },
+        "mall-lobby/mall-lobby.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mall-lobby/mall-lobby.json#mall-lobby": {
+            "scaleInDock": 1
+        },
+        "mall-lobby/mall-lobby.json#mall-lobby-sc": {
+            "scaleInDock": 1
+        },
+        "neooverse-exhibit/neooverse-exhibit.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1448,
+                "y": 802
+            }
+        },
+        "neooverse-exhibit/neooverse-exhibit.json#00-Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "neooverse-exhibit/neooverse-exhibit.json#neooverse-exhibit": {
+            "scaleInDock": 1
+        },
+        "shop-appliance/shop-appliance.json": {
+            "scale": 0.25,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1118,
+                "y": 610
+            }
+        },
+        "shop-appliance/shop-appliance.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shop-appliance/shop-appliance.json#shop-appliance": {
+            "scaleInDock": 1
+        },
+        "shop-appliance/shop-appliance.json#shop-appliance-sc": {
+            "scaleInDock": 1
+        },
+        "shop-carpet/shop-carpet.json": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1118,
+                "y": 610
+            }
+        },
+        "shop-carpet/shop-carpet.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shop-carpet/shop-carpet.json#shop-carpet": {
+            "scaleInDock": 1
+        },
+        "shop-carpet/shop-carpet.json#shop-carpet-sc": {
+            "scaleInDock": 0.125
+        },
+        "shop-computer/shop-computer.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1156,
+                "y": 644
+            }
+        },
+        "shop-computer/shop-computer.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shop-computer/shop-computer.json#shop-computer": {
+            "scaleInDock": 1
+        },
+        "shop-computer/shop-computer.json#shop-computer-sc": {
+            "scaleInDock": 1
+        },
+        "shop-furniture/shop-furniture.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1118,
+                "y": 610
+            }
+        },
+        "shop-furniture/shop-furniture.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shop-furniture/shop-furniture.json#shop-furniture": {
+            "scaleInDock": 0.125
+        },
+        "shop-furniture/shop-furniture.json#shop-furniture-sc": {
+            "scaleInDock": 1
+        },
+        "shop-jewelry/shop-jewelry.json": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1128,
+                "y": 616
+            }
+        },
+        "shop-jewelry/shop-jewelry.json#Collides": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "shop-jewelry/shop-jewelry.json#shop-jewelry": {
+            "scaleInDock": 1
+        },
+        "shop-jewelry/shop-jewelry.json#shop-jewelry-sc": {
+            "scaleInDock": 0.125
+        },
+        "shop-phone/shop-phone.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1119.6969696969697,
+                "y": 610.6060606060605
+            }
+        },
+        "shop-phone/shop-phone.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shop-phone/shop-phone.json#shop-phone": {
+            "scaleInDock": 1
+        },
+        "shop-phone/shop-phone.json#shop-phone-sc": {
+            "scaleInDock": 1
+        },
+        "shop-print/shop-print.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1150,
+                "y": 642
+            }
+        },
+        "shop-print/shop-print.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shop-print/shop-print.json#shop-print": {
+            "scaleInDock": 1
+        },
+        "shop-print/shop-print.json#shop-print-sc": {
+            "scaleInDock": 1
+        },
+        "shop-real-estate/shop-real-estate.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1119.6969696969697,
+                "y": 610.6060606060605
+            }
+        },
+        "shop-real-estate/shop-real-estate.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shop-real-estate/shop-real-estate.json#shop-real-estate": {
+            "scaleInDock": 1
+        },
+        "shop-real-estate/shop-real-estate.json#shop-real-estate-SC": {
+            "scaleInDock": 1
+        },
+        "showroom/showroom.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1119,
+                "y": 609
+            }
+        },
+        "showroom/showroom.json#00-Collides": {
+            "scaleInDock": 1
+        },
+        "showroom/showroom.json#showroom": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1/blue-office-2-office1.json",
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2ext1/blue-office-2-office2ext1.json",
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2/blue-office-2-office2.json",
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1ext1/blue-office-2-office1ext1.json",
+        "D:/wfh-temp/gamedev/GS-Maps/green-office/green-office-office1/green-office-office1.json"
+    ],
+    "project": "neooverse-mall.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1/blue-office-2-office1.json",
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2ext1/blue-office-2-office2ext1.json",
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office2/blue-office-2-office2.json",
+        "D:/wfh-temp/gamedev/GS-Maps/blue-office/blue-office-2-office1ext1/blue-office-2-office1ext1.json",
+        "D:/wfh-temp/gamedev/GS-Maps/green-office/green-office-office1/green-office-office1.json",
+        "mall-lobby/mall-lobby.json",
+        "shop-computer/shop-computer.json",
+        "shop-print/shop-print.json",
+        "shop-real-estate/shop-real-estate.json",
+        "shop-appliance/shop-appliance.json",
+        "shop-furniture/shop-furniture.json",
+        "shop-jewelry/shop-jewelry.json"
+    ],
+    "tileset.embedInMap": true
+}
