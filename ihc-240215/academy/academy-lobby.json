@@ -256,7 +256,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"live-lecture.json"
+                 "value":"ai-lecture.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -324,7 +324,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ai-lecture.json"
+                 "value":"live-lecture.json"
                 }],
          "type":"tilelayer",
          "visible":true,
