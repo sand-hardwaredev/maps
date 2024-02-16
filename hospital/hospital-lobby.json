@@ -252,6 +252,12 @@
          "id":4,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"hospital-exterior.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":91,
