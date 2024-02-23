@@ -1,0 +1,127 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#arena-office": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/cybergate/cg-mgmt-meeting.json": {
+            "scale": 0.25601478494623653,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1421.792886205539,
+                "y": 781.2048825305159
+            }
+        },
+        "D:/wfh-temp/gamedev/cybergate/cg-mgmt-meeting.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/wfh-temp/gamedev/cybergate/cg-mgmt-meeting.json#cg-meeting-overlay": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/wfh-temp/gamedev/cybergate/cg-mgmt-meeting.json#cg-mgmt-meeting": {
+            "scaleInDock": 1
+        },
+        "arena-lobby.json": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1522,
+                "y": 796
+            }
+        },
+        "arena-lobby.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "arena-lobby.json#arena-lobby": {
+            "scaleInDock": 1
+        },
+        "arena-manager.json": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1351.5151515151515,
+                "y": 1124.2424242424242
+            }
+        },
+        "arena-manager.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "arena-manager.json#arena-manager": {
+            "scaleInDock": 1
+        },
+        "arena-meeting.json": {
+            "scale": 0.25,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1244,
+                "y": 776
+            }
+        },
+        "arena-meeting.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "arena-meeting.json#arena-meeting": {
+            "scaleInDock": 1
+        },
+        "arena-office.json": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1484,
+                "y": 1200
+            }
+        },
+        "arena-office.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "arena-office.json#arena-office": {
+            "scaleInDock": 1
+        },
+        "arena-showroom.json": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 152,
+                "y": 704
+            }
+        },
+        "arena-showroom.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "arena-showroom.json#arena-showroom": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+    ],
+    "project": "arena.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "arena-lobby.json",
+        "arena-office.json",
+        "arena-showroom.json",
+        "arena-meeting.json",
+        "arena-manager.json",
+        "D:/wfh-temp/gamedev/cybergate/cg-mgmt-meeting.json"
+    ],
+    "tileset.embedInMap": true
+}
