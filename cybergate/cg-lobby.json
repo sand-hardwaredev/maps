@@ -254,7 +254,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"collides",
+                 "name":"startLayer",
                  "type":"bool",
                  "value":true
                 }],

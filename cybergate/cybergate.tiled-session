@@ -72,10 +72,10 @@
         },
         "cg-lobby-academy.json": {
             "scale": 0.5,
-            "selectedLayer": 4,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 1418,
-                "y": 782
+                "y": 1040
             }
         },
         "cg-lobby-academy.json#Collides": {
@@ -87,7 +87,7 @@
         },
         "cg-lobby-mgmt.json": {
             "scale": 0.33,
-            "selectedLayer": 0,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 1306.0606060606062,
                 "y": 1263.6363636363635
@@ -101,7 +101,7 @@
         },
         "cg-lobby.json": {
             "scale": 0.5,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 2230,
                 "y": 778
@@ -146,11 +146,11 @@
             "scaleInDock": 1
         },
         "cg-mgmt-office1.json": {
-            "scale": 0.25601478494623653,
+            "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1425.6989106181916,
-                "y": 785.1109069431685
+                "x": 1572,
+                "y": 1220
             }
         },
         "cg-mgmt-office1.json#Collides": {

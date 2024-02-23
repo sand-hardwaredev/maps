@@ -392,7 +392,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ihc-meeting.json"
+                 "value":"cg-mgmt-meeting.json"
                 }],
          "type":"tilelayer",
          "visible":true,
