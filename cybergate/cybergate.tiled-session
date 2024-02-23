@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "cg-lecture-ai1.json",
+    "activeFile": "cg-lobby-academy.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -15,11 +15,11 @@
             "scaleInDock": 1
         },
         "cg-lecture-ai1.json": {
-            "scale": 0.25601478494623653,
-            "selectedLayer": 2,
+            "scale": 0.33,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1410.0748129675815,
-                "y": 773.3928337052109
+                "x": 1030.3030303030303,
+                "y": 1187.8787878787878
             }
         },
         "cg-lecture-ai1.json#Collides": {
@@ -29,11 +29,11 @@
             "scaleInDock": 1
         },
         "cg-lecture-ai2.json": {
-            "scale": 0.25601478494623653,
-            "selectedLayer": 2,
+            "scale": 0.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1417.8868617928863,
-                "y": 777.2988581178636
+                "x": 1152,
+                "y": 1452
             }
         },
         "cg-lecture-ai2.json#Collides": {
@@ -43,11 +43,11 @@
             "scaleInDock": 1
         },
         "cg-lecture-live1.json": {
-            "scale": 0.25601478494623653,
-            "selectedLayer": 2,
+            "scale": 0.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1425.6989106181916,
-                "y": 785.1109069431685
+                "x": 340,
+                "y": 1196
             }
         },
         "cg-lecture-live1.json#Collides": {
@@ -57,11 +57,11 @@
             "scaleInDock": 1
         },
         "cg-lecture-live2.json": {
-            "scale": 0.25601478494623653,
-            "selectedLayer": 2,
+            "scale": 0.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1425.6989106181916,
-                "y": 785.1109069431685
+                "x": 898,
+                "y": 1136
             }
         },
         "cg-lecture-live2.json#Collides": {
@@ -72,10 +72,10 @@
         },
         "cg-lobby-academy.json": {
             "scale": 0.5,
-            "selectedLayer": 8,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 1418,
-                "y": 1040
+                "x": 2074,
+                "y": 914
             }
         },
         "cg-lobby-academy.json#Collides": {
@@ -87,7 +87,7 @@
         },
         "cg-lobby-mgmt.json": {
             "scale": 0.33,
-            "selectedLayer": 5,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 1306.0606060606062,
                 "y": 1263.6363636363635
@@ -100,11 +100,11 @@
             "scaleInDock": 1
         },
         "cg-lobby.json": {
-            "scale": 0.5,
-            "selectedLayer": 3,
+            "scale": 0.25,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2230,
-                "y": 778
+                "x": 824,
+                "y": -64
             }
         },
         "cg-lobby.json#Collides": {
@@ -129,11 +129,11 @@
             "scaleInDock": 1
         },
         "cg-mgmt-meeting.json": {
-            "scale": 0.25601478494623653,
+            "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1425.6989106181916,
-                "y": 785.1109069431685
+                "x": 1524,
+                "y": 1378
             }
         },
         "cg-mgmt-meeting.json#Collides": {
@@ -180,16 +180,22 @@
     "openFiles": [
         "cg-lobby.json",
         "cg-lobby-academy.json",
-        "cg-lecture-ai1.json"
+        "cg-lobby-mgmt.json"
     ],
     "project": "cybergate.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "cg-mgmt-manager.json",
+        "cg-lobby.json",
+        "cg-lobby-mgmt.json",
+        "cg-lobby-academy.json",
+        "cg-mgmt-meeting.json",
+        "cg-mgmt-office1.json",
+        "cg-mgmt-office2.json",
         "cg-lecture-ai2.json",
         "cg-lecture-ai1.json",
-        "cg-lobby.json",
-        "cg-lobby-academy.json"
+        "cg-lecture-live1.json",
+        "cg-lecture-live2.json",
+        "cg-mgmt-manager.json"
     ],
     "tileset.embedInMap": true
 }
