@@ -15,11 +15,11 @@
             "scaleInDock": 1
         },
         "cg-lecture-ai1.json": {
-            "scale": 0.33,
-            "selectedLayer": 3,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1030.3030303030303,
-                "y": 1187.8787878787878
+                "x": 1634.6666666666665,
+                "y": 1134.6666666666665
             }
         },
         "cg-lecture-ai1.json#Collides": {
@@ -32,8 +32,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1152,
-                "y": 1452
+                "x": 1150,
+                "y": 1450
             }
         },
         "cg-lecture-ai2.json#Collides": {
@@ -46,8 +46,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 340,
-                "y": 1196
+                "x": 338,
+                "y": 1194
             }
         },
         "cg-lecture-live1.json#Collides": {
@@ -72,10 +72,10 @@
         },
         "cg-lobby-academy.json": {
             "scale": 0.5,
-            "selectedLayer": 13,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 2074,
-                "y": 914
+                "x": 718,
+                "y": 784
             }
         },
         "cg-lobby-academy.json#Collides": {
@@ -89,8 +89,8 @@
             "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1306.0606060606062,
-                "y": 1263.6363636363635
+                "x": 1421.2121212121212,
+                "y": 786.3636363636363
             }
         },
         "cg-lobby-mgmt.json#Collides": {
@@ -100,11 +100,11 @@
             "scaleInDock": 1
         },
         "cg-lobby.json": {
-            "scale": 0.25,
-            "selectedLayer": 8,
+            "scale": 0.5,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 824,
-                "y": -64
+                "x": 1864,
+                "y": 796
             }
         },
         "cg-lobby.json#Collides": {
