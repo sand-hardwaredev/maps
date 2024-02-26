@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "cg-lecture-live2.json",
+    "activeFile": "cg-lobby.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -15,11 +15,11 @@
             "scaleInDock": 1
         },
         "cg-lecture-ai1.json": {
-            "scale": 0.75,
-            "selectedLayer": 1,
+            "scale": 0.5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1633.333333333333,
-                "y": 1133.3333333333333
+                "x": 1402,
+                "y": 778
             }
         },
         "cg-lecture-ai1.json#Collides": {
@@ -30,10 +30,10 @@
         },
         "cg-lecture-ai2.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1148,
-                "y": 1448
+                "x": 1656,
+                "y": 1040
             }
         },
         "cg-lecture-ai2.json#Collides": {
@@ -43,11 +43,11 @@
             "scaleInDock": 1
         },
         "cg-lecture-live1.json": {
-            "scale": 0.5,
-            "selectedLayer": 1,
+            "scale": 0.33,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 336,
-                "y": 1192
+                "x": 1648.4848484848485,
+                "y": 915.1515151515151
             }
         },
         "cg-lecture-live1.json#Collides": {
@@ -60,8 +60,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 896,
-                "y": 1134
+                "x": 894,
+                "y": 1132
             }
         },
         "cg-lecture-live2.json#Collides": {
@@ -74,8 +74,8 @@
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 716,
-                "y": 782
+                "x": 1424,
+                "y": 784
             }
         },
         "cg-lobby-academy.json#Collides": {
@@ -89,8 +89,8 @@
             "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1690.909090909091,
-                "y": 796.9696969696968
+                "x": 1421.212121212121,
+                "y": 784.8484848484849
             }
         },
         "cg-lobby-mgmt.json#Collides": {
@@ -103,8 +103,8 @@
             "scale": 0.5,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1862,
-                "y": 794
+                "x": 1420,
+                "y": 782
             }
         },
         "cg-lobby.json#Collides": {
@@ -178,13 +178,7 @@
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
-        "cg-lobby.json",
-        "cg-lobby-academy.json",
-        "cg-lobby-mgmt.json",
-        "cg-lecture-ai1.json",
-        "cg-lecture-ai2.json",
-        "cg-lecture-live1.json",
-        "cg-lecture-live2.json"
+        "cg-lobby.json"
     ],
     "project": "cybergate.tiled-project",
     "property.type": "bool",
