@@ -1,0 +1,205 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "cg-lecture-live2.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#cg-lecture-ai1": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-ai1.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1633.333333333333,
+                "y": 1133.3333333333333
+            }
+        },
+        "cg-lecture-ai1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-ai1.json#cg-lecture-ai1": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-ai2.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1148,
+                "y": 1448
+            }
+        },
+        "cg-lecture-ai2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-ai2.json#cg-lecture-ai2": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-live1.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 336,
+                "y": 1192
+            }
+        },
+        "cg-lecture-live1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-live1.json#cg-lecture-live1": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-live2.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 896,
+                "y": 1134
+            }
+        },
+        "cg-lecture-live2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-live2.json#cg-lecture-live2": {
+            "scaleInDock": 1
+        },
+        "cg-lobby-academy.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 716,
+                "y": 782
+            }
+        },
+        "cg-lobby-academy.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cg-lobby-academy.json#cg-lobby-academy": {
+            "scaleInDock": 1
+        },
+        "cg-lobby-mgmt.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1690.909090909091,
+                "y": 796.9696969696968
+            }
+        },
+        "cg-lobby-mgmt.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-lobby-mgmt.json#cg-lobby-mgmt": {
+            "scaleInDock": 1
+        },
+        "cg-lobby.json": {
+            "scale": 0.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1862,
+                "y": 794
+            }
+        },
+        "cg-lobby.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cg-lobby.json#cg-lobby": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-manager.json": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 845.4545454545453,
+                "y": 1381.8181818181818
+            }
+        },
+        "cg-mgmt-manager.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-manager.json#cg-mgmt-manager": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-meeting.json": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1524,
+                "y": 1378
+            }
+        },
+        "cg-mgmt-meeting.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-meeting.json#cg-meeting-overlay": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-meeting.json#cg-mgmt-meeting": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-office1.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1572,
+                "y": 1220
+            }
+        },
+        "cg-mgmt-office1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-office1.json#cg-mgmt-office1": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-office2.json": {
+            "scale": 0.25601478494623653,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1425.6989106181916,
+                "y": 785.1109069431685
+            }
+        },
+        "cg-mgmt-office2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-office2.json#cg-mgmt-office2": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "cg-lobby.json",
+        "cg-lobby-academy.json",
+        "cg-lobby-mgmt.json",
+        "cg-lecture-ai1.json",
+        "cg-lecture-ai2.json",
+        "cg-lecture-live1.json",
+        "cg-lecture-live2.json"
+    ],
+    "project": "cybergate.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "cg-lobby.json",
+        "cg-lobby-academy.json",
+        "cg-lobby-mgmt.json",
+        "cg-lecture-ai1.json",
+        "cg-lecture-ai2.json",
+        "cg-lecture-live1.json",
+        "cg-lecture-live2.json",
+        "cg-mgmt-meeting.json",
+        "cg-mgmt-office1.json",
+        "cg-mgmt-office2.json",
+        "cg-mgmt-manager.json"
+    ],
+    "tileset.embedInMap": true
+}

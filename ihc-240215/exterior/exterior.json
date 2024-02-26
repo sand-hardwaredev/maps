@@ -482,7 +482,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/academy\/academy-lobby.json"
+                 "value":"..\/cybergate\/cg-lobby.json"
                 }],
          "type":"tilelayer",
          "visible":true,
