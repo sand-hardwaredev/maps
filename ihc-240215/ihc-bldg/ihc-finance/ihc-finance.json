@@ -190,7 +190,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/ihc-lobby\/ihc-elevator.jsonhh"
+                 "value":"..\/ihc-lobby\/ihc-elevator.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -258,7 +258,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ihc-finance-office2.json"
+                 "value":"ihc-finance-ai.json"
                 }],
          "type":"tilelayer",
          "visible":true,

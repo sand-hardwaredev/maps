@@ -495,7 +495,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":""
+                 "value":"..\/ihc-marketing\/ihc-marketing.json"
                 }],
          "type":"tilelayer",
          "visible":true,
