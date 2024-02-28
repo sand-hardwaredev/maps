@@ -250,10 +250,16 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":10,
-         "name":"override",
+         "name":"exit-to-elevator",
          "offsetx":-64,
          "offsety":-64,
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/ihc-lobby\/ihc-elevator.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":91,
@@ -699,15 +705,6 @@
          "tilecount":576,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":360,
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/ihc1.neooverse.online/elevator/"
-                        }]
-                }, 
                 {
                  "id":565,
                  "properties":[
