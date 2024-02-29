@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "cg-lobby.json",
+    "activeFile": "cg-mgmt-office2.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -14,12 +14,26 @@
         "#cg-lecture-ai1": {
             "scaleInDock": 1
         },
-        "cg-lecture-ai1.json": {
+        "D:/wfh-temp/gamedev/ihc-240215/ihc-bldg/ihc-lobby/ihc-lobby-theater.json": {
             "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1378,
+                "y": 742
+            }
+        },
+        "D:/wfh-temp/gamedev/ihc-240215/ihc-bldg/ihc-lobby/ihc-lobby-theater.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/ihc-240215/ihc-bldg/ihc-lobby/ihc-lobby-theater.json#ihc-lobby-theater": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-ai1.json": {
+            "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1402,
-                "y": 778
+                "x": 1162.6666666666665,
+                "y": 1157.3333333333333
             }
         },
         "cg-lecture-ai1.json#Collides": {
@@ -32,8 +46,8 @@
             "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1656,
-                "y": 1040
+                "x": 1486,
+                "y": 1298
             }
         },
         "cg-lecture-ai2.json#Collides": {
@@ -43,11 +57,11 @@
             "scaleInDock": 1
         },
         "cg-lecture-live1.json": {
-            "scale": 0.33,
-            "selectedLayer": 2,
+            "scale": 0.5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1648.4848484848485,
-                "y": 915.1515151515151
+                "x": 1482,
+                "y": 782
             }
         },
         "cg-lecture-live1.json#Collides": {
@@ -58,10 +72,10 @@
         },
         "cg-lecture-live2.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 894,
-                "y": 1132
+                "x": 1426,
+                "y": 785
             }
         },
         "cg-lecture-live2.json#Collides": {
@@ -72,10 +86,10 @@
         },
         "cg-lobby-academy.json": {
             "scale": 0.5,
-            "selectedLayer": 0,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1424,
-                "y": 784
+                "x": 1488,
+                "y": 1042
             }
         },
         "cg-lobby-academy.json#Collides": {
@@ -86,11 +100,11 @@
             "scaleInDock": 1
         },
         "cg-lobby-mgmt.json": {
-            "scale": 0.33,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1421.212121212121,
-                "y": 784.8484848484849
+                "x": 1422,
+                "y": 1124
             }
         },
         "cg-lobby-mgmt.json#Collides": {
@@ -101,10 +115,10 @@
         },
         "cg-lobby.json": {
             "scale": 0.5,
-            "selectedLayer": 5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1420,
-                "y": 782
+                "x": 1362,
+                "y": 1158
             }
         },
         "cg-lobby.json#Collides": {
@@ -115,11 +129,11 @@
             "scaleInDock": 1
         },
         "cg-mgmt-manager.json": {
-            "scale": 0.33,
+            "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 845.4545454545453,
-                "y": 1381.8181818181818
+                "x": 1660,
+                "y": 1210
             }
         },
         "cg-mgmt-manager.json#Collides": {
@@ -129,11 +143,11 @@
             "scaleInDock": 1
         },
         "cg-mgmt-meeting.json": {
-            "scale": 0.5,
+            "scale": 0.33,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1524,
-                "y": 1378
+                "x": 1060.6060606060607,
+                "y": 439.3939393939394
             }
         },
         "cg-mgmt-meeting.json#Collides": {
@@ -149,8 +163,8 @@
             "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1572,
-                "y": 1220
+                "x": 1422,
+                "y": 1300
             }
         },
         "cg-mgmt-office1.json#Collides": {
@@ -160,11 +174,11 @@
             "scaleInDock": 1
         },
         "cg-mgmt-office2.json": {
-            "scale": 0.25601478494623653,
+            "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1425.6989106181916,
-                "y": 785.1109069431685
+                "x": 1513.3333333333333,
+                "y": 1640
             }
         },
         "cg-mgmt-office2.json#Collides": {
@@ -178,22 +192,27 @@
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
-        "cg-lobby.json"
+        "cg-lobby-mgmt.json",
+        "cg-mgmt-manager.json",
+        "cg-mgmt-meeting.json",
+        "cg-mgmt-office1.json",
+        "cg-mgmt-office2.json"
     ],
     "project": "cybergate.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "cg-lobby.json",
-        "cg-lobby-academy.json",
         "cg-lobby-mgmt.json",
+        "cg-mgmt-manager.json",
+        "cg-mgmt-meeting.json",
+        "cg-mgmt-office1.json",
+        "cg-mgmt-office2.json",
+        "cg-lobby.json",
         "cg-lecture-ai1.json",
         "cg-lecture-ai2.json",
         "cg-lecture-live1.json",
         "cg-lecture-live2.json",
-        "cg-mgmt-meeting.json",
-        "cg-mgmt-office1.json",
-        "cg-mgmt-office2.json",
-        "cg-mgmt-manager.json"
+        "cg-lobby-academy.json",
+        "D:/wfh-temp/gamedev/ihc-240215/ihc-bldg/ihc-lobby/ihc-lobby-theater.json"
     ],
     "tileset.embedInMap": true
 }
