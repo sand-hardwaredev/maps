@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "tds-hub.json",
+    "activeFile": "tds-bldg/tds-lobby.json",
     "expandedProjectPaths": [
         "tds-bldg",
         "."
@@ -20,11 +20,11 @@
             "scaleInEditor": 1
         },
         "showroom-afghanistan.json": {
-            "scale": 0.5,
-            "selectedLayer": 1,
+            "scale": 0.33,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1169,
-                "y": 778
+                "x": 1422.727272727273,
+                "y": 786.3636363636363
             }
         },
         "showroom-afghanistan.json#Collides": {
@@ -35,25 +35,26 @@
             "scaleInDock": 1
         },
         "showroom-bangladesh.json": {
-            "scale": 0.33,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1421.2121212121212,
-                "y": 786.3636363636363
+                "x": 1268.6666666666665,
+                "y": 1412
             }
         },
         "showroom-bangladesh.json#Collides": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "showroom-bangladesh.json#showroom-bangladesh": {
             "scaleInDock": 1
         },
         "showroom-colombia.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1492,
-                "y": 783
+                "x": 1441,
+                "y": 1290
             }
         },
         "showroom-colombia.json#Collides": {
@@ -65,38 +66,40 @@
         },
         "showroom-egypt.json": {
             "scale": 0.33,
-            "selectedLayer": 4,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1421.2121212121212,
-                "y": 786.3636363636363
+                "x": 1401.5151515151513,
+                "y": 775.7575757575758
             }
         },
         "showroom-egypt.json#Collides": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "showroom-egypt.json#showroom-egypt": {
             "scaleInDock": 1
         },
         "showroom-iran.json": {
-            "scale": 0.2301579301075269,
-            "selectedLayer": 0,
+            "scale": 0.33,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1420.7635593838966,
-                "y": 784.2441054091541
+                "x": 1422.727272727273,
+                "y": 783.3333333333333
             }
         },
         "showroom-iran.json#Collides": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "showroom-iran.json#showroom-iran": {
             "scaleInDock": 1
         },
         "showroom-jordan.json": {
-            "scale": 0.33,
-            "selectedLayer": 4,
+            "scale": 0.75,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1421.2121212121212,
-                "y": 786.3636363636363
+                "x": 1276.6666666666665,
+                "y": 1094.6666666666665
             }
         },
         "showroom-jordan.json#Collides": {
@@ -108,9 +111,9 @@
         },
         "showroom-lebanon.json": {
             "scale": 0.5,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1424,
+                "x": 1423,
                 "y": 785
             }
         },
@@ -123,9 +126,9 @@
         },
         "showroom-mauritania.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1456,
+                "x": 1455,
                 "y": 817
             }
         },
@@ -154,8 +157,8 @@
             "scale": 0.3233702956989247,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1417.8791499974025,
-                "y": 782.3847872395698
+                "x": 1410.1480750246792,
+                "y": 779.2923572504807
             }
         },
         "tds-bldg/tds-lobby.json#Collides": {
@@ -183,30 +186,26 @@
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
-        "showroom-colombia.json",
-        "showroom-jordan.json",
-        "showroom-egypt.json",
-        "showroom-lebanon.json",
-        "showroom-afghanistan.json",
         "showroom-iran.json",
-        "showroom-bangladesh.json",
+        "showroom-lebanon.json",
         "showroom-mauritania.json",
-        "tds-hub.json"
+        "showroom-afghanistan.json",
+        "tds-bldg/tds-lobby.json"
     ],
     "project": "tds.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "tds-hub.json",
         "showroom-iran.json",
-        "showroom-bangladesh.json",
+        "showroom-lebanon.json",
         "showroom-mauritania.json",
-        "tds-bldg/tds-lecture-ai1.json",
-        "showroom-colombia.json",
+        "showroom-afghanistan.json",
+        "tds-bldg/tds-lobby.json",
         "showroom-jordan.json",
         "showroom-egypt.json",
-        "showroom-lebanon.json",
-        "showroom-afghanistan.json",
-        "tds-bldg/tds-lobby.json"
+        "showroom-bangladesh.json",
+        "showroom-colombia.json",
+        "tds-hub.json",
+        "tds-bldg/tds-lecture-ai1.json"
     ],
     "tileset.embedInMap": true
 }
