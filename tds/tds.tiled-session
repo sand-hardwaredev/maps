@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "tds-bldg/tds-lobby.json",
+    "activeFile": "tds-bldg/tds-lobby-mgmt.json",
     "expandedProjectPaths": [
         "tds-bldg",
         "."
@@ -23,8 +23,8 @@
             "scale": 0.33,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1422.727272727273,
-                "y": 786.3636363636363
+                "x": 1421.2121212121212,
+                "y": 784.8484848484849
             }
         },
         "showroom-afghanistan.json#Collides": {
@@ -83,8 +83,8 @@
             "scale": 0.33,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1422.727272727273,
-                "y": 783.3333333333333
+                "x": 1624.2424242424242,
+                "y": 660.6060606060606
             }
         },
         "showroom-iran.json#Collides": {
@@ -110,11 +110,11 @@
             "scaleInDock": 1
         },
         "showroom-lebanon.json": {
-            "scale": 0.5,
+            "scale": 0.25,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1423,
-                "y": 785
+                "x": 1424,
+                "y": 784
             }
         },
         "showroom-lebanon.json#Collides": {
@@ -128,8 +128,8 @@
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1455,
-                "y": 817
+                "x": 1456,
+                "y": 816
             }
         },
         "showroom-mauritania.json#Collides": {
@@ -153,12 +153,26 @@
         "tds-bldg/tds-lecture-ai1.json#tds-lecture-ai1": {
             "scaleInDock": 1
         },
+        "tds-bldg/tds-lobby-mgmt.json": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1345.4545454545453,
+                "y": 1478.7878787878788
+            }
+        },
+        "tds-bldg/tds-lobby-mgmt.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lobby-mgmt.json#tds-lobby-mgmt": {
+            "scaleInDock": 1
+        },
         "tds-bldg/tds-lobby.json": {
             "scale": 0.3233702956989247,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1410.1480750246792,
-                "y": 779.2923572504807
+                "x": 1403.9632150465009,
+                "y": 776.1999272613914
             }
         },
         "tds-bldg/tds-lobby.json#Collides": {
@@ -167,12 +181,26 @@
         "tds-bldg/tds-lobby.json#tds-lobby": {
             "scaleInDock": 1
         },
-        "tds-hub.json": {
-            "scale": 0.5,
-            "selectedLayer": 3,
+        "tds-bldg/tds-mgmt-office2.json": {
+            "scale": 0.18961693548387096,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1365,
-                "y": 1220
+                "x": 1429.1972355130251,
+                "y": 785.7947900053164
+            }
+        },
+        "tds-bldg/tds-mgmt-office2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-mgmt-office2.json#tds-mgmt-office2": {
+            "scaleInDock": 1
+        },
+        "tds-hub.json": {
+            "scale": 0.33,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1090.909090909091,
+                "y": 957.5757575757575
             }
         },
         "tds-hub.json#Collides": {
@@ -186,26 +214,29 @@
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
-        "showroom-iran.json",
-        "showroom-lebanon.json",
-        "showroom-mauritania.json",
-        "showroom-afghanistan.json",
-        "tds-bldg/tds-lobby.json"
-    ],
-    "project": "tds.tiled-project",
-    "property.type": "string",
-    "recentFiles": [
-        "showroom-iran.json",
         "showroom-lebanon.json",
         "showroom-mauritania.json",
         "showroom-afghanistan.json",
         "tds-bldg/tds-lobby.json",
+        "tds-hub.json",
+        "tds-bldg/tds-lobby-mgmt.json",
+        "tds-bldg/tds-mgmt-office2.json"
+    ],
+    "project": "tds.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "showroom-lebanon.json",
+        "showroom-mauritania.json",
+        "showroom-afghanistan.json",
+        "tds-bldg/tds-lobby.json",
+        "tds-hub.json",
+        "tds-bldg/tds-mgmt-office2.json",
+        "tds-bldg/tds-lobby-mgmt.json",
+        "showroom-iran.json",
         "showroom-jordan.json",
         "showroom-egypt.json",
         "showroom-bangladesh.json",
-        "showroom-colombia.json",
-        "tds-hub.json",
-        "tds-bldg/tds-lecture-ai1.json"
+        "showroom-colombia.json"
     ],
     "tileset.embedInMap": true
 }
