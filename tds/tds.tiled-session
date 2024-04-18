@@ -3,10 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "tds-bldg/tds-lobby-mgmt.json",
+    "activeFile": "tds-bldg/tds-lecture-ai2.json",
     "expandedProjectPaths": [
+        ".",
         "tds-bldg",
-        "."
+        "tds-teachers"
     ],
     "fileStates": {
         "": {
@@ -23,8 +24,8 @@
             "scale": 0.33,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1421.2121212121212,
-                "y": 784.8484848484849
+                "x": 1422.727272727273,
+                "y": 786.3636363636363
             }
         },
         "showroom-afghanistan.json#Collides": {
@@ -113,8 +114,8 @@
             "scale": 0.25,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1424,
-                "y": 784
+                "x": 1422,
+                "y": 782
             }
         },
         "showroom-lebanon.json#Collides": {
@@ -128,8 +129,8 @@
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1456,
-                "y": 816
+                "x": 1455,
+                "y": 817
             }
         },
         "showroom-mauritania.json#Collides": {
@@ -143,8 +144,8 @@
             "scale": 0.2722950268817204,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1426.7612759918554,
-                "y": 785.9122601345098
+                "x": 1423.0887887949652,
+                "y": 778.5672857407293
             }
         },
         "tds-bldg/tds-lecture-ai1.json#Collides": {
@@ -153,12 +154,68 @@
         "tds-bldg/tds-lecture-ai1.json#tds-lecture-ai1": {
             "scaleInDock": 1
         },
+        "tds-bldg/tds-lecture-ai2.json": {
+            "scale": 0.3112399193548387,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1151.8445344129557,
+                "y": 777.5352226720648
+            }
+        },
+        "tds-bldg/tds-lecture-ai2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-ai2.json#tds-lecture-ai2": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-live1.json": {
+            "scale": 0.3112399193548387,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1421.7327935222675,
+                "y": 1240.2008097165992
+            }
+        },
+        "tds-bldg/tds-lecture-live1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-live1.json#tds-lecture-live1": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-live2.json": {
+            "scale": 0.3112399193548387,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1334.9829959514173,
+                "y": 774.3222672064779
+            }
+        },
+        "tds-bldg/tds-lecture-live2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-live2.json#tds-lecture-live2": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lobby-academy.json": {
+            "scale": 0.3112399193548387,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1421.7327935222675,
+                "y": 777.5352226720648
+            }
+        },
+        "tds-bldg/tds-lobby-academy.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lobby-academy.json#tds-lobby-academy": {
+            "scaleInDock": 1
+        },
         "tds-bldg/tds-lobby-mgmt.json": {
             "scale": 0.33,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1345.4545454545453,
-                "y": 1478.7878787878788
+                "x": 1416.6666666666667,
+                "y": 781.8181818181818
             }
         },
         "tds-bldg/tds-lobby-mgmt.json#Collides": {
@@ -171,14 +228,28 @@
             "scale": 0.3233702956989247,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1403.9632150465009,
-                "y": 776.1999272613914
+                "x": 1420.9715799864916,
+                "y": 782.3847872395698
             }
         },
         "tds-bldg/tds-lobby.json#Collides": {
             "scaleInDock": 1
         },
         "tds-bldg/tds-lobby.json#tds-lobby": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-mgmt-office1.json": {
+            "scale": 0.3112399193548387,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1424.9457489878544,
+                "y": 787.1740890688259
+            }
+        },
+        "tds-bldg/tds-mgmt-office1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-mgmt-office1.json#tds-mgmt-office1": {
             "scaleInDock": 1
         },
         "tds-bldg/tds-mgmt-office2.json": {
@@ -197,10 +268,10 @@
         },
         "tds-hub.json": {
             "scale": 0.33,
-            "selectedLayer": 5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1090.909090909091,
-                "y": 957.5757575757575
+                "x": 1412.121212121212,
+                "y": 781.8181818181818
             }
         },
         "tds-hub.json#Collides": {
@@ -208,35 +279,102 @@
         },
         "tds-hub.json#tds-hub": {
             "scaleInDock": 1
+        },
+        "tds-teachers/getting-started-0.json": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1312,
+                "y": 320
+            }
+        },
+        "tds-teachers/getting-started-0.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/getting-started-0.json#getting-started-0": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-exterior.json": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1136,
+                "y": 144
+            }
+        },
+        "tds-teachers/tds-teachers-exterior.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-exterior.json#tds-teachers-exterior": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-lobby.json": {
+            "scale": 0.33,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 2425.757575757576,
+                "y": 712.1212121212121
+            }
+        },
+        "tds-teachers/tds-teachers-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-lobby.json#tds-teachers-lobby": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-manager.json": {
+            "scale": 0.18961693548387096,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1429.1972355130251,
+                "y": 785.7947900053164
+            }
+        },
+        "tds-teachers/tds-teachers-manager.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-manager.json#tds-teachers-manager": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-park.json": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1336,
+                "y": 868
+            }
+        },
+        "tds-teachers/tds-teachers-park.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-park.json#tds-teachers-park": {
+            "scaleInDock": 1
         }
     },
     "map.height": 51,
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
-        "showroom-lebanon.json",
-        "showroom-mauritania.json",
-        "showroom-afghanistan.json",
-        "tds-bldg/tds-lobby.json",
-        "tds-hub.json",
-        "tds-bldg/tds-lobby-mgmt.json",
-        "tds-bldg/tds-mgmt-office2.json"
+        "tds-bldg/tds-lecture-live2.json",
+        "tds-bldg/tds-lobby-academy.json",
+        "tds-bldg/tds-lecture-live1.json",
+        "tds-bldg/tds-lecture-ai2.json"
     ],
     "project": "tds.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "tds-bldg/tds-lecture-live2.json",
+        "tds-bldg/tds-lobby-academy.json",
+        "tds-bldg/tds-lecture-live1.json",
+        "tds-bldg/tds-lecture-ai2.json",
+        "tds-bldg/tds-lecture-ai1.json",
+        "tds-bldg/tds-lobby.json",
         "showroom-lebanon.json",
         "showroom-mauritania.json",
         "showroom-afghanistan.json",
-        "tds-bldg/tds-lobby.json",
         "tds-hub.json",
-        "tds-bldg/tds-mgmt-office2.json",
         "tds-bldg/tds-lobby-mgmt.json",
-        "showroom-iran.json",
-        "showroom-jordan.json",
-        "showroom-egypt.json",
-        "showroom-bangladesh.json",
-        "showroom-colombia.json"
+        "tds-bldg/tds-mgmt-office2.json"
     ],
     "tileset.embedInMap": true
 }
