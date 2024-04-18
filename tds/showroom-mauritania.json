@@ -248,7 +248,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"tds-hub.json"
+                 "value":"tds-hub-a.json#start-from-mau"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -519,6 +519,38 @@
          "tilecount":4641,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":9859,
+         "image":"..\/tds-teachers\/Collides.jpg",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"Collides",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":360,
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/meet.dff.beamviews.online\/tds-teachers-meeting-1#config.prejoinConfig.enabled=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
+                        }]
+                }, 
+                {
+                 "id":565,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",

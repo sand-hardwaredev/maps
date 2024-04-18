@@ -190,7 +190,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"tds-hub.json"
+                 "value":"tds-hub-b.json#start-from-afghanistan"
                 }],
          "type":"tilelayer",
          "visible":true,

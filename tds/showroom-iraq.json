@@ -126,7 +126,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"tds-hub.json"
+                 "value":"tds-hub-a.json#start-from-iraq"
                 }],
          "type":"tilelayer",
          "visible":true,

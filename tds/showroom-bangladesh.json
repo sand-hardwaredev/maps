@@ -126,7 +126,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"tds-hub.json"
+                 "value":"tds-hub-b.json#start-from-bangladesh"
                 }],
          "type":"tilelayer",
          "visible":true,

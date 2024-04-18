@@ -190,7 +190,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"tds-hub.json"
+                 "value":"tds-hub-a.json#start-from-colombia"
                 }],
          "type":"tilelayer",
          "visible":true,
