@@ -1,0 +1,604 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json",
+    "expandedProjectPaths": [
+        "tds-teachers",
+        "tds-bldg",
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#showroom-jordan": {
+            "scaleInEditor": 1
+        },
+        "#showroom-mauritania": {
+            "scaleInEditor": 1
+        },
+        "#tds-hub-a": {
+            "scaleInEditor": 1
+        },
+        "#tds-hub-meeting-room-1": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1401.3333333333333,
+                "y": 781.3333333333333
+            }
+        },
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json#ihc-lobby": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json#ihc-lobby-avatar": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json#new-avatar": {
+            "scaleInDock": 1
+        },
+        "showroom-afghanistan.json": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1415.1515151515152,
+                "y": 781.8181818181818
+            }
+        },
+        "showroom-afghanistan.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "showroom-afghanistan.json#showroom-afghanistan": {
+            "scaleInDock": 1
+        },
+        "showroom-bangladesh.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1424,
+                "y": 783.3333333333333
+            }
+        },
+        "showroom-bangladesh.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "showroom-bangladesh.json#showroom-bangladesh": {
+            "scaleInDock": 1
+        },
+        "showroom-colombia.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1436,
+                "y": 1286
+            }
+        },
+        "showroom-colombia.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "showroom-colombia.json#showroom-colombia": {
+            "scaleInDock": 1
+        },
+        "showroom-egypt.json": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1393.9393939393938,
+                "y": 772.7272727272727
+            }
+        },
+        "showroom-egypt.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "showroom-egypt.json#showroom-egypt": {
+            "scaleInDock": 1
+        },
+        "showroom-iran.json": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1624.2424242424242,
+                "y": 660.6060606060606
+            }
+        },
+        "showroom-iran.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "showroom-iran.json#showroom-iran": {
+            "scaleInDock": 1
+        },
+        "showroom-iraq.json": {
+            "scale": 0.2509072580645161,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1426.822016874247,
+                "y": 785.1506629168342
+            }
+        },
+        "showroom-iraq.json#Collides": {
+            "scaleInDock": 1
+        },
+        "showroom-iraq.json#showroom-iraq": {
+            "scaleInDock": 1
+        },
+        "showroom-jordan.json": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1274.6666666666665,
+                "y": 1092
+            }
+        },
+        "showroom-jordan.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "showroom-jordan.json#showroom-jordan": {
+            "scaleInDock": 1
+        },
+        "showroom-lebanon.json": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1420,
+                "y": 780
+            }
+        },
+        "showroom-lebanon.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "showroom-lebanon.json#showroom-lebanon": {
+            "scaleInDock": 1
+        },
+        "showroom-mauritania.json": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1448,
+                "y": 812
+            }
+        },
+        "showroom-mauritania.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "showroom-mauritania.json#showroom-mauritania": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-ai1.json": {
+            "scale": 0.2722950268817204,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1423.0887887949652,
+                "y": 778.5672857407293
+            }
+        },
+        "tds-bldg/tds-lecture-ai1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-ai1.json#tds-lecture-ai1": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-ai2.json": {
+            "scale": 0.3112399193548387,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1151.8445344129557,
+                "y": 774.3222672064779
+            }
+        },
+        "tds-bldg/tds-lecture-ai2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-ai2.json#tds-lecture-ai2": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-live1.json": {
+            "scale": 0.3112399193548387,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1413.7004048582999,
+                "y": 1236.9878542510123
+            }
+        },
+        "tds-bldg/tds-lecture-live1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-live1.json#tds-lecture-live1": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-live2.json": {
+            "scale": 0.3112399193548387,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1328.557085020243,
+                "y": 774.3222672064779
+            }
+        },
+        "tds-bldg/tds-lecture-live2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lecture-live2.json#tds-lecture-live2": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lobby-academy.json": {
+            "scale": 0.3112399193548387,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1415.3068825910932,
+                "y": 774.3222672064779
+            }
+        },
+        "tds-bldg/tds-lobby-academy.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lobby-academy.json#tds-lobby-academy": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lobby-mgmt.json": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1416.6666666666667,
+                "y": 781.8181818181818
+            }
+        },
+        "tds-bldg/tds-lobby-mgmt.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lobby-mgmt.json#tds-lobby-mgmt": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lobby.json": {
+            "scale": 0.3233702956989247,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1422.5177949810363,
+                "y": 787.0234322232035
+            }
+        },
+        "tds-bldg/tds-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-lobby.json#tds-lobby": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-mgmt-meeting.json": {
+            "scale": 0.2410114247311828,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1425.2436388985707,
+                "y": 784.195189961659
+            }
+        },
+        "tds-bldg/tds-mgmt-meeting.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-mgmt-meeting.json#tds-meeting-overlay": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-mgmt-meeting.json#tds-mgmt-meeting": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-mgmt-office1.json": {
+            "scale": 0.3112399193548387,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1424.9457489878544,
+                "y": 787.1740890688259
+            }
+        },
+        "tds-bldg/tds-mgmt-office1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-mgmt-office1.json#tds-mgmt-office1": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-mgmt-office2.json": {
+            "scale": 0.18961693548387096,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1423.9234449760766,
+                "y": 780.5209994683678
+            }
+        },
+        "tds-bldg/tds-mgmt-office2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-bldg/tds-mgmt-office2.json#tds-mgmt-office2": {
+            "scaleInDock": 1
+        },
+        "tds-hub-a.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1422,
+                "y": 784
+            }
+        },
+        "tds-hub-a.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tds-hub-a.json#tds-hub-a": {
+            "scaleInDock": 1
+        },
+        "tds-hub-b.json": {
+            "scale": 0.5,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 1434,
+                "y": 782
+            }
+        },
+        "tds-hub-b.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tds-hub-b.json#tds-hub-b": {
+            "scaleInDock": 1
+        },
+        "tds-hub.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1412.121212121212,
+                "y": 781.8181818181818
+            }
+        },
+        "tds-hub.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-hub.json#tds-hub": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/getting-started-0-1.json": {
+            "scale": 0.2410114247311828,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1321.5141164168697,
+                "y": 780.0460090623908
+            }
+        },
+        "tds-teachers/getting-started-0-1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/getting-started-0-1.json#getting-started-0-1": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/getting-started-0.json": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1312,
+                "y": 320
+            }
+        },
+        "tds-teachers/getting-started-0.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/getting-started-0.json#getting-started-0": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-ai-1.json": {
+            "scale": 0.2509072580645161,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1422.836480514263,
+                "y": 787.143431096826
+            }
+        },
+        "tds-teachers/tds-teachers-ai-1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-ai-1.json#tds-teachers-ai-1": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-ai-1.json.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1486,
+                "y": 980
+            }
+        },
+        "tds-teachers/tds-teachers-ai-1.json.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-ai-1.json.json#tds-lecture-ai1": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-ai-1.json.json#tds-teachers-ai-1": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-ai-2.json": {
+            "scale": 0.2509072580645161,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1422.836480514263,
+                "y": 787.143431096826
+            }
+        },
+        "tds-teachers/tds-teachers-ai-2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-ai-2.json#tds-teachers-ai-2": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-ai-2.json.json": {
+            "scale": 0.2564217032967033,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1446.8354091335211,
+                "y": 811.163787330923
+            }
+        },
+        "tds-teachers/tds-teachers-ai-2.json.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-ai-2.json.json#tds-teachers-ai-2": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-exterior.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1422,
+                "y": 1169
+            }
+        },
+        "tds-teachers/tds-teachers-exterior.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-exterior.json#tds-teachers-exterior": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-lobby.json": {
+            "scale": 0.33,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1421.2121212121212,
+                "y": 786.3636363636363
+            }
+        },
+        "tds-teachers/tds-teachers-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-lobby.json#tds-teachers-lobby": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-manager.json": {
+            "scale": 0.18961693548387096,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1429.1972355130254,
+                "y": 788.4316852737907
+            }
+        },
+        "tds-teachers/tds-teachers-manager.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-manager.json#tds-teachers-manager": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-meeting-1.json": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1424,
+                "y": 783.3333333333333
+            }
+        },
+        "tds-teachers/tds-teachers-meeting-1.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tds-teachers/tds-teachers-meeting-1.json#tds-hub-meeting-room-1": {
+            "scaleInDock": 0.25
+        },
+        "tds-teachers/tds-teachers-meeting-1.json#tds-teachers-meeting-1": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-meeting-2.json": {
+            "scale": 0.2509072580645161,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1418.8509441542792,
+                "y": 785.1506629168342
+            }
+        },
+        "tds-teachers/tds-teachers-meeting-2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-meeting-2.json#tds-teachers-meeting-2": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-meeting.json": {
+            "scale": 0.2410114247311828,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1423.1690484489368,
+                "y": 786.2697804112931
+            }
+        },
+        "tds-teachers/tds-teachers-meeting.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-meeting.json#tds-teachers-meeting": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-park.json": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1484.848484848485,
+                "y": 1042.4242424242425
+            }
+        },
+        "tds-teachers/tds-teachers-park.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-park.json#tds-teachers-park": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-showroom.json": {
+            "scale": 0.2410114247311828,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1425.2436388985707,
+                "y": 784.195189961659
+            }
+        },
+        "tds-teachers/tds-teachers-showroom.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-teachers-showroom.json#tds-teachers-showroom": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "showroom-bangladesh.json",
+        "tds-hub-b.json",
+        "tds-hub-a.json",
+        "tds-bldg/tds-lobby.json",
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json"
+    ],
+    "project": "tds.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "showroom-bangladesh.json",
+        "tds-hub-b.json",
+        "tds-hub-a.json",
+        "tds-bldg/tds-lobby.json",
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json",
+        "tds-teachers/tds-teachers-meeting-1.json",
+        "tds-teachers/tds-teachers-meeting-2.json",
+        "tds-teachers/tds-teachers-lobby.json",
+        "tds-teachers/tds-teachers-ai-1.json",
+        "tds-teachers/tds-teachers-ai-2.json",
+        "tds-teachers/tds-teachers-exterior.json",
+        "tds-teachers/tds-teachers-manager.json"
+    ],
+    "tileset.embedInMap": true
+}
