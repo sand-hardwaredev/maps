@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "showroom-bangladesh.json",
+    "activeFile": "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json",
     "expandedProjectPaths": [
-        ".",
         "tds-teachers",
-        "tds-bldg"
+        "tds-bldg",
+        "."
     ],
     "fileStates": {
         "": {
@@ -29,6 +29,26 @@
         "#tds-hub-meeting-room-1": {
             "scaleInDock": 1
         },
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1401.3333333333333,
+                "y": 781.3333333333333
+            }
+        },
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json#ihc-lobby": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json#ihc-lobby-avatar": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json#new-avatar": {
+            "scaleInDock": 1
+        },
         "showroom-afghanistan.json": {
             "scale": 0.33,
             "selectedLayer": 2,
@@ -48,8 +68,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1418.6666666666665,
-                "y": 778.6666666666665
+                "x": 1424,
+                "y": 783.3333333333333
             }
         },
         "showroom-bangladesh.json#Collides": {
@@ -195,7 +215,7 @@
             "scale": 0.3112399193548387,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1418.51983805668,
+                "x": 1413.7004048582999,
                 "y": 1236.9878542510123
             }
         },
@@ -251,8 +271,8 @@
             "scale": 0.3233702956989247,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1410.1480750246792,
-                "y": 773.107497272302
+                "x": 1419.4253649919467,
+                "y": 785.477217228659
             }
         },
         "tds-bldg/tds-lobby.json#Collides": {
@@ -296,8 +316,8 @@
             "scale": 0.18961693548387096,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1429.1972355130251,
-                "y": 785.7947900053164
+                "x": 1423.9234449760766,
+                "y": 780.5209994683678
             }
         },
         "tds-bldg/tds-mgmt-office2.json#Collides": {
@@ -307,11 +327,11 @@
             "scaleInDock": 1
         },
         "tds-hub-a.json": {
-            "scale": 0.33,
-            "selectedLayer": 13,
+            "scale": 0.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1275.7575757575758,
-                "y": 645.4545454545455
+                "x": 1420,
+                "y": 782
             }
         },
         "tds-hub-a.json#Collides": {
@@ -322,11 +342,11 @@
             "scaleInDock": 1
         },
         "tds-hub-b.json": {
-            "scale": 0.25,
-            "selectedLayer": 8,
+            "scale": 0.5,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 1336,
-                "y": 1396
+                "x": 1434,
+                "y": 782
             }
         },
         "tds-hub-b.json#Collides": {
@@ -529,7 +549,7 @@
             "scale": 0.33,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1493.9393939393938,
+                "x": 1484.848484848485,
                 "y": 1042.4242424242425
             }
         },
@@ -559,23 +579,26 @@
     "map.width": 91,
     "openFiles": [
         "showroom-bangladesh.json",
-        "tds-hub-b.json"
+        "tds-hub-b.json",
+        "tds-hub-a.json",
+        "tds-bldg/tds-lobby.json",
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json"
     ],
     "project": "tds.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "tds-hub-b.json",
         "showroom-bangladesh.json",
+        "tds-hub-b.json",
+        "tds-hub-a.json",
+        "tds-bldg/tds-lobby.json",
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json",
         "tds-teachers/tds-teachers-meeting-1.json",
         "tds-teachers/tds-teachers-meeting-2.json",
         "tds-teachers/tds-teachers-lobby.json",
         "tds-teachers/tds-teachers-ai-1.json",
         "tds-teachers/tds-teachers-ai-2.json",
         "tds-teachers/tds-teachers-exterior.json",
-        "tds-teachers/tds-teachers-manager.json",
-        "tds-teachers/tds-teachers-meeting.json",
-        "tds-hub-a.json",
-        "showroom-afghanistan.json"
+        "tds-teachers/tds-teachers-manager.json"
     ],
     "tileset.embedInMap": true
 }

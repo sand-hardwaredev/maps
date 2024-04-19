@@ -256,7 +256,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/tds-hub-b.json#start-from-tds-teachers"
+                 "value":"..\/tds-hub-b.json#start-from-afghanistan"
                 }],
          "type":"tilelayer",
          "visible":true,
