@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json",
+    "activeFile": "tds-dega.json",
     "expandedProjectPaths": [
         "tds-teachers",
-        "tds-bldg",
-        "."
+        ".",
+        "tds-bldg"
     ],
     "fileStates": {
         "": {
@@ -33,8 +33,8 @@
             "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1401.3333333333333,
-                "y": 781.3333333333333
+                "x": 1424,
+                "y": 783.3333333333333
             }
         },
         "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json#Collides": {
@@ -215,8 +215,8 @@
             "scale": 0.3112399193548387,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1413.7004048582999,
-                "y": 1236.9878542510123
+                "x": 1423.3392712550608,
+                "y": 785.5676113360325
             }
         },
         "tds-bldg/tds-lecture-live1.json#Collides": {
@@ -316,8 +316,8 @@
             "scale": 0.18961693548387096,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1423.9234449760766,
-                "y": 780.5209994683678
+                "x": 1687.6129718234986,
+                "y": 788.4316852737907
             }
         },
         "tds-bldg/tds-mgmt-office2.json#Collides": {
@@ -326,12 +326,26 @@
         "tds-bldg/tds-mgmt-office2.json#tds-mgmt-office2": {
             "scaleInDock": 1
         },
+        "tds-dega.json": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1451.5151515151515,
+                "y": 815.1515151515151
+            }
+        },
+        "tds-dega.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-dega.json#tds-dega": {
+            "scaleInDock": 1
+        },
         "tds-hub-a.json": {
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1422,
-                "y": 784
+                "x": 1424,
+                "y": 785
             }
         },
         "tds-hub-a.json#Collides": {
@@ -342,11 +356,11 @@
             "scaleInDock": 1
         },
         "tds-hub-b.json": {
-            "scale": 0.5,
+            "scale": 0.75,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 1434,
-                "y": 782
+                "x": 1424,
+                "y": 783.3333333333333
             }
         },
         "tds-hub-b.json#Collides": {
@@ -549,8 +563,8 @@
             "scale": 0.33,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1484.848484848485,
-                "y": 1042.4242424242425
+                "x": 1421.2121212121212,
+                "y": 786.3636363636363
             }
         },
         "tds-teachers/tds-teachers-park.json#Collides": {
@@ -578,27 +592,30 @@
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
-        "showroom-bangladesh.json",
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json",
+        "tds-bldg/tds-mgmt-office2.json",
+        "tds-bldg/tds-lecture-live1.json",
         "tds-hub-b.json",
+        "tds-teachers/tds-teachers-park.json",
         "tds-hub-a.json",
         "tds-bldg/tds-lobby.json",
-        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json"
+        "tds-dega.json"
     ],
     "project": "tds.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
-        "showroom-bangladesh.json",
+        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json",
+        "tds-bldg/tds-mgmt-office2.json",
+        "tds-bldg/tds-lecture-live1.json",
         "tds-hub-b.json",
+        "tds-teachers/tds-teachers-park.json",
         "tds-hub-a.json",
         "tds-bldg/tds-lobby.json",
-        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json",
+        "tds-dega.json",
+        "showroom-bangladesh.json",
         "tds-teachers/tds-teachers-meeting-1.json",
         "tds-teachers/tds-teachers-meeting-2.json",
-        "tds-teachers/tds-teachers-lobby.json",
-        "tds-teachers/tds-teachers-ai-1.json",
-        "tds-teachers/tds-teachers-ai-2.json",
-        "tds-teachers/tds-teachers-exterior.json",
-        "tds-teachers/tds-teachers-manager.json"
+        "tds-teachers/tds-teachers-lobby.json"
     ],
     "tileset.embedInMap": true
 }
