@@ -326,7 +326,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":7,
-         "name":"exit-to-ai-2",
+         "name":"exit-to-tds-teachers-showroom",
          "offsetx":-64,
          "offsety":-64,
          "opacity":1,
@@ -334,7 +334,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"tds-teachers-ai-2.json"
+                 "value":"tds-teachers-showroom.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -602,7 +602,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":14,
-         "name":"start-from-ai-2",
+         "name":"start-from-tds-teachers-showroom",
          "opacity":1,
          "properties":[
                 {

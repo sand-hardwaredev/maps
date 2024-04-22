@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json",
+    "activeFile": "showroom-afghanistan.json",
     "expandedProjectPaths": [
         "tds-teachers",
-        "tds-bldg",
-        "."
+        ".",
+        "tds-bldg"
     ],
     "fileStates": {
         "": {
@@ -33,8 +33,8 @@
             "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1401.3333333333333,
-                "y": 781.3333333333333
+                "x": 1424,
+                "y": 783.3333333333333
             }
         },
         "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json#Collides": {
@@ -53,7 +53,7 @@
             "scale": 0.33,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1415.1515151515152,
+                "x": 1418.1818181818182,
                 "y": 781.8181818181818
             }
         },
@@ -201,7 +201,7 @@
             "scale": 0.3112399193548387,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1151.8445344129557,
+                "x": 1150.2380566801621,
                 "y": 774.3222672064779
             }
         },
@@ -215,8 +215,8 @@
             "scale": 0.3112399193548387,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1413.7004048582999,
-                "y": 1236.9878542510123
+                "x": 1416.9133603238868,
+                "y": 783.9611336032389
             }
         },
         "tds-bldg/tds-lecture-live1.json#Collides": {
@@ -227,9 +227,9 @@
         },
         "tds-bldg/tds-lecture-live2.json": {
             "scale": 0.3112399193548387,
-            "selectedLayer": 3,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1328.557085020243,
+                "x": 1320.5246963562754,
                 "y": 774.3222672064779
             }
         },
@@ -243,7 +243,7 @@
             "scale": 0.3112399193548387,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1415.3068825910932,
+                "x": 1407.2744939271256,
                 "y": 774.3222672064779
             }
         },
@@ -257,8 +257,8 @@
             "scale": 0.33,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1416.6666666666667,
-                "y": 781.8181818181818
+                "x": 1412.1212121212122,
+                "y": 778.7878787878788
             }
         },
         "tds-bldg/tds-lobby-mgmt.json#Collides": {
@@ -285,8 +285,8 @@
             "scale": 0.2410114247311828,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1425.2436388985707,
-                "y": 784.195189961659
+                "x": 1423.1690484489368,
+                "y": 780.0460090623908
             }
         },
         "tds-bldg/tds-mgmt-meeting.json#Collides": {
@@ -316,8 +316,8 @@
             "scale": 0.18961693548387096,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1423.9234449760766,
-                "y": 780.5209994683678
+                "x": 1687.6129718234986,
+                "y": 788.4316852737907
             }
         },
         "tds-bldg/tds-mgmt-office2.json#Collides": {
@@ -326,12 +326,26 @@
         "tds-bldg/tds-mgmt-office2.json#tds-mgmt-office2": {
             "scaleInDock": 1
         },
-        "tds-hub-a.json": {
-            "scale": 0.5,
+        "tds-dega.json": {
+            "scale": 0.25,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1420,
-                "y": 782
+                "x": 1524,
+                "y": 600
+            }
+        },
+        "tds-dega.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-dega.json#tds-dega": {
+            "scaleInDock": 1
+        },
+        "tds-hub-a.json": {
+            "scale": 0.5,
+            "selectedLayer": 18,
+            "viewCenter": {
+                "x": 1422,
+                "y": 784
             }
         },
         "tds-hub-a.json#Collides": {
@@ -342,11 +356,11 @@
             "scaleInDock": 1
         },
         "tds-hub-b.json": {
-            "scale": 0.5,
-            "selectedLayer": 10,
+            "scale": 0.75,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1434,
-                "y": 782
+                "x": 781.3333333333333,
+                "y": 1472
             }
         },
         "tds-hub-b.json#Collides": {
@@ -360,8 +374,8 @@
             "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1412.121212121212,
-                "y": 781.8181818181818
+                "x": 1421.2121212121212,
+                "y": 786.3636363636363
             }
         },
         "tds-hub.json#Collides": {
@@ -396,6 +410,23 @@
             "scaleInDock": 1
         },
         "tds-teachers/getting-started-0.json#getting-started-0": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-dega.json": {
+            "scale": 0.2564217032967033,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1458.5348868354095,
+                "y": 815.0636132315523
+            }
+        },
+        "tds-teachers/tds-dega.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-dega.json#tds-dega": {
+            "scaleInDock": 1
+        },
+        "tds-teachers/tds-dega.json#tds-teachers-showroom": {
             "scaleInDock": 1
         },
         "tds-teachers/tds-teachers-ai-1.json": {
@@ -472,11 +503,11 @@
             "scaleInDock": 1
         },
         "tds-teachers/tds-teachers-lobby.json": {
-            "scale": 0.33,
-            "selectedLayer": 6,
+            "scale": 0.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1421.2121212121212,
-                "y": 786.3636363636363
+                "x": 1424,
+                "y": 784
             }
         },
         "tds-teachers/tds-teachers-lobby.json#Collides": {
@@ -549,8 +580,8 @@
             "scale": 0.33,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1484.848484848485,
-                "y": 1042.4242424242425
+                "x": 1421.2121212121212,
+                "y": 786.3636363636363
             }
         },
         "tds-teachers/tds-teachers-park.json#Collides": {
@@ -560,17 +591,32 @@
             "scaleInDock": 1
         },
         "tds-teachers/tds-teachers-showroom.json": {
-            "scale": 0.2410114247311828,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1425.2436388985707,
-                "y": 784.195189961659
+                "x": 1424,
+                "y": 784
             }
         },
         "tds-teachers/tds-teachers-showroom.json#Collides": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "tds-teachers/tds-teachers-showroom.json#tds-teachers-showroom": {
+            "scaleInDock": 1
+        },
+        "tds-theater.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 520,
+                "y": 1164
+            }
+        },
+        "tds-theater.json#Collides": {
+            "scaleInDock": 1
+        },
+        "tds-theater.json#tds-theater": {
             "scaleInDock": 1
         }
     },
@@ -578,27 +624,25 @@
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
-        "showroom-bangladesh.json",
-        "tds-hub-b.json",
-        "tds-hub-a.json",
-        "tds-bldg/tds-lobby.json",
-        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json"
+        "tds-teachers/tds-teachers-lobby.json",
+        "tds-teachers/tds-teachers-showroom.json",
+        "showroom-afghanistan.json"
     ],
     "project": "tds.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
-        "showroom-bangladesh.json",
-        "tds-hub-b.json",
-        "tds-hub-a.json",
-        "tds-bldg/tds-lobby.json",
-        "D:/wfh-temp/gamedev/ihc/ihc-bldg/ihc-lobby/ihc-lobby.json",
-        "tds-teachers/tds-teachers-meeting-1.json",
-        "tds-teachers/tds-teachers-meeting-2.json",
         "tds-teachers/tds-teachers-lobby.json",
-        "tds-teachers/tds-teachers-ai-1.json",
-        "tds-teachers/tds-teachers-ai-2.json",
-        "tds-teachers/tds-teachers-exterior.json",
-        "tds-teachers/tds-teachers-manager.json"
+        "tds-teachers/tds-teachers-showroom.json",
+        "showroom-afghanistan.json",
+        "tds-teachers/tds-dega.json",
+        "tds-hub-b.json",
+        "tds-dega.json",
+        "tds-bldg/tds-lecture-live1.json",
+        "tds-bldg/tds-lecture-live2.json",
+        "tds-bldg/tds-lobby-academy.json",
+        "tds-theater.json",
+        "tds-bldg/tds-lobby.json",
+        "tds-bldg/tds-lecture-ai2.json"
     ],
     "tileset.embedInMap": true
 }
