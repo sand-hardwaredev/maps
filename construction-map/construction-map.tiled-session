@@ -30,10 +30,10 @@
         },
         "construction-map-2.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1854,
-                "y": 786
+                "x": 1468,
+                "y": 644
             }
         },
         "construction-map-2.json#Collides": {
@@ -45,10 +45,10 @@
         },
         "construction-map-3.json": {
             "scale": 0.33,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1427.272727272727,
-                "y": 630.3030303030303
+                "x": 1424.2424242424242,
+                "y": 627.2727272727273
             }
         },
         "construction-map-3.json#Collides": {
