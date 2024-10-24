@@ -1,0 +1,218 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "cg-mgmt-office2.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#cg-lecture-ai1": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/ihc-240215/ihc-bldg/ihc-lobby/ihc-lobby-theater.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1378,
+                "y": 742
+            }
+        },
+        "D:/wfh-temp/gamedev/ihc-240215/ihc-bldg/ihc-lobby/ihc-lobby-theater.json#Collides": {
+            "scaleInDock": 1
+        },
+        "D:/wfh-temp/gamedev/ihc-240215/ihc-bldg/ihc-lobby/ihc-lobby-theater.json#ihc-lobby-theater": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-ai1.json": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1162.6666666666665,
+                "y": 1157.3333333333333
+            }
+        },
+        "cg-lecture-ai1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-ai1.json#cg-lecture-ai1": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-ai2.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1486,
+                "y": 1298
+            }
+        },
+        "cg-lecture-ai2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-ai2.json#cg-lecture-ai2": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-live1.json": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1482,
+                "y": 782
+            }
+        },
+        "cg-lecture-live1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-live1.json#cg-lecture-live1": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-live2.json": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1426,
+                "y": 785
+            }
+        },
+        "cg-lecture-live2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-lecture-live2.json#cg-lecture-live2": {
+            "scaleInDock": 1
+        },
+        "cg-lobby-academy.json": {
+            "scale": 0.5,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 1488,
+                "y": 1042
+            }
+        },
+        "cg-lobby-academy.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cg-lobby-academy.json#cg-lobby-academy": {
+            "scaleInDock": 1
+        },
+        "cg-lobby-mgmt.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1422,
+                "y": 1124
+            }
+        },
+        "cg-lobby-mgmt.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-lobby-mgmt.json#cg-lobby-mgmt": {
+            "scaleInDock": 1
+        },
+        "cg-lobby.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1362,
+                "y": 1158
+            }
+        },
+        "cg-lobby.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cg-lobby.json#cg-lobby": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-manager.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1660,
+                "y": 1210
+            }
+        },
+        "cg-mgmt-manager.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-manager.json#cg-mgmt-manager": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-meeting.json": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1060.6060606060607,
+                "y": 439.3939393939394
+            }
+        },
+        "cg-mgmt-meeting.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-meeting.json#cg-meeting-overlay": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-meeting.json#cg-mgmt-meeting": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-office1.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1422,
+                "y": 1300
+            }
+        },
+        "cg-mgmt-office1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-office1.json#cg-mgmt-office1": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-office2.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1513.3333333333333,
+                "y": 1640
+            }
+        },
+        "cg-mgmt-office2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "cg-mgmt-office2.json#cg-mgmt-office2": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "cg-lobby-mgmt.json",
+        "cg-mgmt-manager.json",
+        "cg-mgmt-meeting.json",
+        "cg-mgmt-office1.json",
+        "cg-mgmt-office2.json"
+    ],
+    "project": "cybergate.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "cg-lobby-mgmt.json",
+        "cg-mgmt-manager.json",
+        "cg-mgmt-meeting.json",
+        "cg-mgmt-office1.json",
+        "cg-mgmt-office2.json",
+        "cg-lobby.json",
+        "cg-lecture-ai1.json",
+        "cg-lecture-ai2.json",
+        "cg-lecture-live1.json",
+        "cg-lecture-live2.json",
+        "cg-lobby-academy.json",
+        "D:/wfh-temp/gamedev/ihc-240215/ihc-bldg/ihc-lobby/ihc-lobby-theater.json"
+    ],
+    "tileset.embedInMap": true
+}
