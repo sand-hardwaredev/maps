@@ -1,0 +1,26 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#Whisk_625ade12ea47700be694b0bd7858c7b1eg": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 24,
+    "map.lastUsedFormat": "json",
+    "map.width": 42,
+    "openFiles": [
+    ],
+    "project": "events.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true
+}
