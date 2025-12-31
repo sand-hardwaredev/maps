@@ -103,6 +103,12 @@
          "id":3,
          "name":"exit-to-little-creo",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"little-creo\/little-creo.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":172,
@@ -210,6 +216,12 @@
          "id":4,
          "name":"exit-to-slate",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"slate\/slate.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":172,
@@ -317,6 +329,12 @@
          "id":5,
          "name":"exit-to-portal-wings",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"portal-wings\/portal-wings.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":172,
@@ -424,6 +442,12 @@
          "id":7,
          "name":"exit-to-v-zero",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"v-zero\/v-zero.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":172,
@@ -531,6 +555,12 @@
          "id":6,
          "name":"exit-to-neooverse",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"neooverse\/neooverse.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":172,
