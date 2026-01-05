@@ -3,14 +3,14 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "slate/slate.json",
+    "activeFile": "",
     "expandedProjectPaths": [
-        "slate",
-        "little-creo",
-        "v-zero",
-        ".",
         "neooverse",
-        "portal-wings"
+        "portal-wings",
+        "little-creo",
+        ".",
+        "v-zero",
+        "slate"
     ],
     "fileStates": {
         "": {
@@ -67,10 +67,10 @@
         },
         "little-creo/little-creo.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 3467,
-                "y": 454
+                "x": 4852,
+                "y": 1434
             }
         },
         "little-creo/little-creo.json#Collides": {
@@ -81,11 +81,11 @@
             "scaleInDock": 1
         },
         "neooverse/neooverse.json": {
-            "scale": 1,
+            "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 2557.5,
-                "y": 379
+                "x": 5244,
+                "y": 773.3333333333334
             }
         },
         "neooverse/neooverse.json#Collides": {
@@ -102,8 +102,8 @@
             "scale": 0.33,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 2950,
-                "y": 1930.3030303030303
+                "x": 2719.69696969697,
+                "y": 1504.5454545454545
             }
         },
         "park.json#Collides": {
@@ -117,8 +117,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 2517,
-                "y": 22
+                "x": 5190,
+                "y": 606
             }
         },
         "portal-wings/portal-wings.json#Collides": {
@@ -129,24 +129,25 @@
         },
         "slate/slate.json": {
             "scale": 0.25,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1770,
-                "y": 1576
+                "x": 2312,
+                "y": 600
             }
         },
         "slate/slate.json#Collides": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
         },
         "slate/slate.json#slate": {
             "scaleInDock": 1
         },
         "v-zero/v-zero.json": {
-            "scale": 0.33,
-            "selectedLayer": 1,
+            "scale": 0.25,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 3046.969696969697,
-                "y": 475.75757575757575
+                "x": 2508,
+                "y": 1932
             }
         },
         "v-zero/v-zero.json#Collides": {
@@ -188,10 +189,10 @@
     "recentFiles": [
         "neooverse/neooverse.json",
         "park.json",
-        "portal-wings/portal-wings.json",
-        "v-zero/v-zero.json",
-        "little-creo/little-creo.json",
         "slate/slate.json",
+        "little-creo/little-creo.json",
+        "v-zero/v-zero.json",
+        "portal-wings/portal-wings.json",
         "D:/wfh-temp/gamedev/ihc-sand/ihc-bldg/ihc-hr/ihc-hr.json",
         "D:/wfh-temp/gamedev/sharafdg/sharafdg-showroom.json",
         "vzero/v-zero.json"
