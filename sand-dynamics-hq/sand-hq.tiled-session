@@ -99,11 +99,11 @@
             "scaleInDock": 0.25
         },
         "park.json": {
-            "scale": 0.33,
-            "selectedLayer": 6,
+            "scale": 0.25,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 2719.69696969697,
-                "y": 1504.5454545454545
+                "x": 2020,
+                "y": 2000
             }
         },
         "park.json#Collides": {
@@ -111,14 +111,14 @@
             "scaleInEditor": 1
         },
         "park.json#park": {
-            "scaleInDock": 0.125
+            "scaleInDock": 0.75
         },
         "portal-wings/portal-wings.json": {
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 5190,
-                "y": 606
+                "x": 2156,
+                "y": 320
             }
         },
         "portal-wings/portal-wings.json#Collides": {
